@@ -21,7 +21,7 @@ import "hardhat/console.sol";
 /**
  * @title Adapter for Curve Metapool Swap pools
  * @author Opty.fi
- * @dev Abstraction layer to Curve's swap pools
+ * @dev Abstraction layer to Curve's Metapool swap pools
  *      Note 1 : In this adapter, a swap pool is defined as a single-sided liquidity pool
  *      Note 2 : In this adapter, lp token can be redemeed into more than one underlying token
  */
@@ -31,16 +31,8 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
     /** @notice max deposit value datatypes */
     MaxExposure public maxDepositProtocolMode;
 
-    /**
-     * @notice Uniswap V2 router contract address
-     */
-    address public constant uniswapV2Router02 = address(0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D);
-
     /** @notice  Curve Metapool Factory */
     address public constant METAPOOL_FACTORY = address(0x0959158b6040D32d04c301A72CBFD6b39E21c9AE);
-
-    /** @notice  Curve Minter contract address */
-    address public constant MINTER = address(0xd061D61a4d941c39E5453435B6345Dc261C2fcE0);
 
     /** @notice HBTC token contract address */
     address public constant HBTC = address(0x0316EB71485b0Ab14103307bf65a021042c6d380);
