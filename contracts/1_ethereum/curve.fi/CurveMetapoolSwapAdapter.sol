@@ -14,10 +14,7 @@ import { AdapterModifiersBase } from "../../utils/AdapterModifiersBase.sol";
 import { IAdapter } from "@optyfi/defi-legos/interfaces/defiAdapters/contracts/IAdapter.sol";
 import "@optyfi/defi-legos/interfaces/defiAdapters/contracts/IAdapterInvestLimit.sol";
 import { ICurveMetapoolSwap } from "@optyfi/defi-legos/ethereum/curve/contracts/ICurveMetapoolSwap.sol";
-import { ICurveAddressProvider } from "@optyfi/defi-legos/ethereum/curve/contracts/interfacesV0/ICurveAddressProvider.sol";
 import { ICurveMetapoolFactory } from "@optyfi/defi-legos/ethereum/curve/contracts/ICurveMetapoolFactory.sol";
-import { ITokenMinter } from "@optyfi/defi-legos/ethereum/curve/contracts/interfacesV0/ITokenMinter.sol";
-import { IUniswapV2Router02 } from "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol";
 
 import "hardhat/console.sol";
 
