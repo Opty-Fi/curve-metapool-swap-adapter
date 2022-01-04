@@ -6,11 +6,13 @@ import { CurveMetapoolSwapAdapter } from "../../../typechain/CurveMetapoolSwapAd
 import { TestDeFiAdapter } from "../../../typechain/TestDeFiAdapter";
 import { LiquidityPool, Signers } from "../types";
 import { shouldBehaveLikeCurveMetapoolSwapAdapter } from "./CurveMetapoolSwapAdapter.behavior";
-import { default as CurvePools } from "./curve.fi-pools.json";
+import { default as CurveExports } from "@optyfi/defi-legos/ethereum/curve/contracts";
 import { IUniswapV2Router02 } from "../../../typechain";
 import { getOverrideOptions } from "../../utils";
 
 const { deployContract } = hre.waffle;
+
+const CurvePools = CurveExports.CurveMetapoolSwapPool;
 
 describe("Unit tests", function () {
   before(async function () {
