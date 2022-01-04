@@ -1,0 +1,3397 @@
+No need to generate any newer typings.
+
+
+  Unit tests
+    CurveMetapoolSwapAdapter
+Virtual price:  1014170509827187778
+Total supply:  10579077651384394644542
+Result:  10728988575205919807050
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9367261134046164693379
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit dola_dola+3crv and withdraw LP tokens in 0x9547429C0e2c3A8B88C6833B58FCE962734C0E8C pool of Curve (7991ms)
+Virtual price:  1014252669322694049
+Total supply:  10579077651384394644542
+Result:  10729857746888679215186
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9366502339445641069460
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_dola+3crv and withdraw LP tokens in 0x9547429C0e2c3A8B88C6833B58FCE962734C0E8C pool of Curve (5507ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit dola+3crv and withdraw LP tokens in 0x9547429C0e2c3A8B88C6833B58FCE962734C0E8C pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  74969015539895047355896
+TestDefiAdapter balance after:  1000000000000
+Virtual price:  1007650257758407219
+Total supply:  547464944455589003238078803
+Result:  551653192394366350223776662
+1000000000000
+Amounts  0  :  1000000000000
+Deposit amount 0:  1000000000000
+Deposit amount 1:  0
+Min amount:  942787433125
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit alusd_alusd+3crv and withdraw LP tokens in 0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c pool of Curve (3863ms)
+Virtual price:  1007650257758407219
+Total supply:  547464944455589003238078803
+Result:  551653192394366350223776662
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9427874331252050727511
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_alusd+3crv and withdraw LP tokens in 0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c pool of Curve (3974ms)
+Entering...
+TestDefiAdapter balance before:  999594809163
+Whale balance before:  74969015538895047355896
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit alusd+3crv and withdraw LP tokens in 0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c pool of Curve
+Virtual price:  1006859773462442011
+Total supply:  1680254637131973451577225010
+Result:  1691780803301916493884456340
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9435276143102731671099
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit frax_frax+3crv and withdraw LP tokens in 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B pool of Curve (3617ms)
+Virtual price:  1006859774659419773
+Total supply:  1680254637131973451577225010
+Result:  1691780805313143929028808021
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9435276131885861153610
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_frax+3crv and withdraw LP tokens in 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B pool of Curve (3885ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit frax+3crv and withdraw LP tokens in 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  35429935445331663360020890
+TestDefiAdapter balance after:  999999999999
+Virtual price:  1002086593402193834
+Total supply:  1628182759895346883174
+Result:  1631580115299710261368
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  948021863832
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      1) should deposit flexusd_flexusd+3crv and withdraw LP tokens in 0x11E0Ab0561Ee271967F70Ea0DA54Fd538ba7a6B0 pool of Curve
+Virtual price:  1002086593402193834
+Total supply:  1628182759895346883174
+Result:  1631580115299710261368
+1631580115299710261368
+Amounts  1  :  1631580115299710261368
+Deposit amount 0:  0
+Deposit amount 1:  1631580115299710261368
+Min amount:  1546773621900579539015
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_flexusd+3crv and withdraw LP tokens in 0x11E0Ab0561Ee271967F70Ea0DA54Fd538ba7a6B0 pool of Curve (3704ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  35429935445330663360020890
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit flexusd+3crv and withdraw LP tokens in 0x11E0Ab0561Ee271967F70Ea0DA54Fd538ba7a6B0 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  667831135906831755721242
+TestDefiAdapter balance after:  999999999999
+Virtual price:  17758450178729942923
+Total supply:  2612400566620486797
+Result:  46392185309215787924
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  53495659274
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      2) should deposit grapefruitusd_grapefruitusd+3crv and withdraw LP tokens in 0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD pool of Curve
+Virtual price:  17758450178729942923
+Total supply:  2612400566620486797
+Result:  46392185309215787924
+46392185309215787924
+Amounts  1  :  46392185309215787924
+Deposit amount 0:  0
+Deposit amount 1:  46392185309215787924
+Min amount:  2481780538289462457
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_grapefruitusd+3crv and withdraw LP tokens in 0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD pool of Curve (3744ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  667831135905831755721242
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit grapefruitusd+3crv and withdraw LP tokens in 0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  61859945810400476337438
+TestDefiAdapter balance after:  999999999999
+Virtual price:  85053901986800766014
+Total supply:  2556840821509875098
+Result:  217469288628552068349
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  11169387621
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      3) should deposit mountainvusd_mountainvusd+3crv and withdraw LP tokens in 0xE0b99F540B3cD69f88b4666c8f39877c79072851 pool of Curve
+Virtual price:  85053901986800766014
+Total supply:  2556840821509875098
+Result:  217469288628552068349
+217469288628552068349
+Amounts  1  :  217469288628552068349
+Deposit amount 0:  0
+Deposit amount 1:  217469288628552068349
+Min amount:  2428998780434381343
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_mountainvusd+3crv and withdraw LP tokens in 0xE0b99F540B3cD69f88b4666c8f39877c79072851 pool of Curve (3656ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  61859945809400476337438
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit mountainvusd+3crv and withdraw LP tokens in 0xE0b99F540B3cD69f88b4666c8f39877c79072851 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  484733007982581837639445
+TestDefiAdapter balance after:  999999999999
+Virtual price:  1001047932485374382
+Total supply:  121700352559101406231740
+Result:  121827886312029603899131
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  949005506300
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      4) should deposit efrontierusd_efrontierusd+3crv and withdraw LP tokens in 0x592ae00d0DEE274d74faeDc6760302F54A5dB67e pool of Curve
+Virtual price:  1001047932485374382
+Total supply:  121700352559101406231740
+Result:  121827886312029603899131
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9490055063011478643806
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_efrontierusd+3crv and withdraw LP tokens in 0x592ae00d0DEE274d74faeDc6760302F54A5dB67e pool of Curve (3877ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  484733007981581837639446
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit efrontierusd+3crv and withdraw LP tokens in 0x592ae00d0DEE274d74faeDc6760302F54A5dB67e pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  411150727759976919677725
+TestDefiAdapter balance after:  999999999999
+Virtual price:  1003917121433070291
+Total supply:  546904388558564351330624
+Result:  549046679460827306183307
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  946293254410
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      5) should deposit nibbiousd_nibbiousd+3crv and withdraw LP tokens in 0x6f682319F4eE0320a53cc72341aC28408C4BeD19 pool of Curve
+Virtual price:  1003917121433070291
+Total supply:  546904388558564351330624
+Result:  549046679460827306183307
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9462932544111761442315
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_nibbiousd+3crv and withdraw LP tokens in 0x6f682319F4eE0320a53cc72341aC28408C4BeD19 pool of Curve (3410ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  411150727758976919677726
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit nibbiousd+3crv and withdraw LP tokens in 0x6f682319F4eE0320a53cc72341aC28408C4BeD19 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  1012213441100367024201825
+TestDefiAdapter balance after:  999999999999
+Virtual price:  1003453996386773842
+Total supply:  146555004569116320936
+Result:  147061205025361672613
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  946729998006
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      6) should deposit folkvangusd_folkvangusd+3crv and withdraw LP tokens in 0x296B9FA08cf80138dfa6c3fcce497152662BC314 pool of Curve
+Virtual price:  1003453996386773842
+Total supply:  146555004569116320936
+Result:  147061205025361672613
+147061205025361672613
+Amounts  1  :  147061205025361672613
+Deposit amount 0:  0
+Deposit amount 1:  147061205025361672613
+Min amount:  139227254340660504888
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_folkvangusd+3crv and withdraw LP tokens in 0x296B9FA08cf80138dfa6c3fcce497152662BC314 pool of Curve (3516ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  1012213441099367024201826
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit folkvangusd+3crv and withdraw LP tokens in 0x296B9FA08cf80138dfa6c3fcce497152662BC314 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  271761951885245275119961
+TestDefiAdapter balance after:  999999999999
+Virtual price:  139369982819609069846
+Total supply:  2015154542846888611
+Result:  280852054015428034929
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  6816388872
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      7) should deposit 1-noteusd_noteusd+3crv and withdraw LP tokens in 0xe9Ab166bC03099d251170d0578FDFFb94bCDDe6F pool of Curve
+Virtual price:  139369982819609069846
+Total supply:  2015154542846888611
+Result:  280852054015428034929
+280852054015428034929
+Amounts  1  :  280852054015428034929
+Deposit amount 0:  0
+Deposit amount 1:  280852054015428034929
+Min amount:  1914396815704544180
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 1-3crv_noteusd+3crv and withdraw LP tokens in 0xe9Ab166bC03099d251170d0578FDFFb94bCDDe6F pool of Curve (3449ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  271761951884245275119962
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 1-noteusd+3crv and withdraw LP tokens in 0xe9Ab166bC03099d251170d0578FDFFb94bCDDe6F pool of Curve
+Skipping because total supply is zero
+      - should deposit mbtc_mbtc+crvrenwsbtc and withdraw LP tokens in 0x064841157BadDcB2704cA38901D7d754a59b80E8 pool of Curve
+Skipping because total supply is zero
+      - should deposit crvrenwsbtc_mbtc+crvrenwsbtc and withdraw LP tokens in 0x064841157BadDcB2704cA38901D7d754a59b80E8 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit mbtc+crvrenwsbtc and withdraw LP tokens in 0x064841157BadDcB2704cA38901D7d754a59b80E8 pool of Curve
+Virtual price:  1007041272422564441
+Total supply:  221059148589627154670605
+Result:  222615686276346871396938
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9433575624111765689148
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      8) should deposit stablex_stablex+3crv and withdraw LP tokens in 0x3252eFd4EA2d6c78091a1f43982ee2C3659cC3D1 pool of Curve
+Virtual price:  1007041272422564441
+Total supply:  221059148589627154670605
+Result:  222615686276346871396938
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9433575624111765689148
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_stablex+3crv and withdraw LP tokens in 0x3252eFd4EA2d6c78091a1f43982ee2C3659cC3D1 pool of Curve (3685ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit stablex+3crv and withdraw LP tokens in 0x3252eFd4EA2d6c78091a1f43982ee2C3659cC3D1 pool of Curve
+Virtual price:  1004661285970162385
+Total supply:  57729829383550357181228689
+Result:  57998924627315768668290486
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9455923237677282408028
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit tusd_tusd+3crv and withdraw LP tokens in 0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1 pool of Curve (3262ms)
+Virtual price:  1004661319049055700
+Total supply:  57729829383550357181228689
+Result:  57998926536954635939904967
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9455922926337062531719
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_tusd+3crv and withdraw LP tokens in 0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1 pool of Curve (3401ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit tusd+3crv and withdraw LP tokens in 0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_wbtc_25000_dai_2021_3_31_rc_wbtc_25000_dai_2021_3_31+3crv and withdraw LP tokens in 0x52EEEa483Ab7A801e2592a904Ad209C90e12E471 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_wbtc_25000_dai_2021_3_31+3crv and withdraw LP tokens in 0x52EEEa483Ab7A801e2592a904Ad209C90e12E471 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_wbtc_25000_dai_2021_3_31+3crv and withdraw LP tokens in 0x52EEEa483Ab7A801e2592a904Ad209C90e12E471 pool of Curve
+Virtual price:  1006078010920995046
+Total supply:  111710659054390481446
+Result:  112389637660114620910
+112389637660114620910
+Amounts  0  :  112389637660114620910
+Deposit amount 0:  112389637660114620910
+Deposit amount 1:  0
+Min amount:  106125126101670957373
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      9) should deposit rc_inv_300_dai_2021_3_31_rc_inv_300_dai_2021_3_31+3crv and withdraw LP tokens in 0x52890A0c018fbab21794AD18e15f87fdb57fb975 pool of Curve
+Virtual price:  1006078010920995046
+Total supply:  111710659054390481446
+Result:  112389637660114620910
+112389637660114620910
+Amounts  1  :  112389637660114620910
+Deposit amount 0:  0
+Deposit amount 1:  112389637660114620910
+Min amount:  106125126101670957373
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_inv_300_dai_2021_3_31+3crv and withdraw LP tokens in 0x52890A0c018fbab21794AD18e15f87fdb57fb975 pool of Curve (3628ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_inv_300_dai_2021_3_31+3crv and withdraw LP tokens in 0x52890A0c018fbab21794AD18e15f87fdb57fb975 pool of Curve
+Virtual price:  1014967962553496327
+Total supply:  127473316919017505278
+Result:  129381332753231329079
+129381332753231329079
+Amounts  0  :  129381332753231329079
+Deposit amount 0:  129381332753231329079
+Deposit amount 1:  0
+Min amount:  121099651073066630013
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_veth2_850_dai_2021_4_30_rc_veth2_850_dai_2021_4_30+3crv and withdraw LP tokens in 0x1Daf17e6d1d9ed6aa9Fe9910AE17Be98C2C4e6BA pool of Curve (3238ms)
+Virtual price:  1015049069344510122
+Total supply:  127473316919017505278
+Result:  129391671704906515090
+129391671704906515090
+Amounts  1  :  129391671704906515090
+Deposit amount 0:  0
+Deposit amount 1:  129391671704906515090
+Min amount:  121099651073066630013
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_veth2_850_dai_2021_4_30+3crv and withdraw LP tokens in 0x1Daf17e6d1d9ed6aa9Fe9910AE17Be98C2C4e6BA pool of Curve (3533ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_veth2_850_dai_2021_4_30+3crv and withdraw LP tokens in 0x1Daf17e6d1d9ed6aa9Fe9910AE17Be98C2C4e6BA pool of Curve
+Virtual price:  1002514042617775893
+Total supply:  263747339559039565007422
+Result:  264410411611016000175972
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9476176488454459581145
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      10) should deposit mic2_mic2+3crv and withdraw LP tokens in 0x2B26239f52420d11420bC0982571BFE091417A7d pool of Curve
+Virtual price:  1002514042617775893
+Total supply:  263747339559039565007422
+Result:  264410411611016000175972
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9476176488454459581145
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_mic2+3crv and withdraw LP tokens in 0x2B26239f52420d11420bC0982571BFE091417A7d pool of Curve (3879ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit mic2+3crv and withdraw LP tokens in 0x2B26239f52420d11420bC0982571BFE091417A7d pool of Curve
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  271761951884245275119962
+Virtual price:  1001535267851291616
+Total supply:  40623332939441116263162
+Result:  40685700636515355952726
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  948543731302
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      11) should deposit 2-noteusd_noteusd+3crv and withdraw LP tokens in 0xBd184cD60AF678633b3072FD0B47b5D4b7a072f3 pool of Curve
+Virtual price:  1001535267851291616
+Total supply:  40623332939441116263162
+Result:  40685700636515355952726
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9485437313037851058835
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 2-3crv_noteusd+3crv and withdraw LP tokens in 0xBd184cD60AF678633b3072FD0B47b5D4b7a072f3 pool of Curve (3537ms)
+Entering...
+TestDefiAdapter balance before:  999999999999
+Whale balance before:  271761951884245275119962
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 2-noteusd+3crv and withdraw LP tokens in 0xBd184cD60AF678633b3072FD0B47b5D4b7a072f3 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  939452785163699950858
+TestDefiAdapter balance after:  1000000000000
+Virtual price:  1004767227381620915
+Total supply:  107767685303626686165928
+Result:  108281438363860041175140
+1000000000000
+Amounts  0  :  1000000000000
+Deposit amount 0:  1000000000000
+Deposit amount 1:  0
+Min amount:  945492621684
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit wausd_wausd+3crv and withdraw LP tokens in 0x9f6664205988C3bf4B12B851c075102714869535 pool of Curve (3453ms)
+Virtual price:  1004767227381622796
+Total supply:  107767685303626686165928
+Result:  108281438363860243886156
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9454926216847819839522
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_wausd+3crv and withdraw LP tokens in 0x9f6664205988C3bf4B12B851c075102714869535 pool of Curve (3521ms)
+Entering...
+TestDefiAdapter balance before:  999595025929
+Whale balance before:  939452784163699950858
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit wausd+3crv and withdraw LP tokens in 0x9f6664205988C3bf4B12B851c075102714869535 pool of Curve
+Virtual price:  1002681032759643160
+Total supply:  5275656656870040633941
+Result:  5289800865195738726621
+5289800865195738726621
+Amounts  0  :  5289800865195738726621
+Deposit amount 0:  5289800865195738726621
+Deposit amount 1:  0
+Min amount:  5011873824026538602243
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit nkap_nkap+3crv and withdraw LP tokens in 0xF9bE07E6E1f28890c1647612187Df8c6e4CC035b pool of Curve (3272ms)
+Virtual price:  1002792517505669285
+Total supply:  5275656656870040633941
+Result:  5290389020438250918786
+5290389020438250918786
+Amounts  1  :  5290389020438250918786
+Deposit amount 0:  0
+Deposit amount 1:  5290389020438250918786
+Min amount:  5011873824026538602243
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_nkap+3crv and withdraw LP tokens in 0xF9bE07E6E1f28890c1647612187Df8c6e4CC035b pool of Curve (3555ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit nkap+3crv and withdraw LP tokens in 0xF9bE07E6E1f28890c1647612187Df8c6e4CC035b pool of Curve
+Virtual price:  1022242386255514836
+Total supply:  162250252654681800454
+Result:  165859085444282104464
+165859085444282104464
+Amounts  0  :  165859085444282104464
+Deposit amount 0:  165859085444282104464
+Deposit amount 1:  0
+Min amount:  154137740021947710430
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_pickle_4_dai_2021_4_30_rc_pickle_4_dai_2021_4_30+3crv and withdraw LP tokens in 0x910A00594DC16dD699D579A8F7811d465Dfa2752 pool of Curve (3347ms)
+Virtual price:  1022546915464526401
+Total supply:  162250252654681800454
+Result:  165908495385384961287
+165908495385384961287
+Amounts  1  :  165908495385384961287
+Deposit amount 0:  0
+Deposit amount 1:  165908495385384961287
+Min amount:  154137740021947710430
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      12) should deposit 3crv_rc_pickle_4_dai_2021_4_30+3crv and withdraw LP tokens in 0x910A00594DC16dD699D579A8F7811d465Dfa2752 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_pickle_4_dai_2021_4_30+3crv and withdraw LP tokens in 0x910A00594DC16dD699D579A8F7811d465Dfa2752 pool of Curve
+Virtual price:  1002977215878569108
+Total supply:  189968400037863726514
+Result:  190533976974882822737
+190533976974882822737
+Amounts  0  :  190533976974882822737
+Deposit amount 0:  190533976974882822737
+Deposit amount 1:  0
+Min amount:  180469980035970540187
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_wbtc_29000_dai_2021_4_30_rc_wbtc_29000_dai_2021_4_30+3crv and withdraw LP tokens in 0x6Df2B0855060439251fee7eD34952b87b68EeEd9 pool of Curve (3310ms)
+Virtual price:  1003094536009393457
+Total supply:  189968400037863726514
+Result:  190556264092427757175
+190556264092427757175
+Amounts  1  :  190556264092427757175
+Deposit amount 0:  0
+Deposit amount 1:  190556264092427757175
+Min amount:  180469980035970540187
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_wbtc_29000_dai_2021_4_30+3crv and withdraw LP tokens in 0x6Df2B0855060439251fee7eD34952b87b68EeEd9 pool of Curve (3442ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_wbtc_29000_dai_2021_4_30+3crv and withdraw LP tokens in 0x6Df2B0855060439251fee7eD34952b87b68EeEd9 pool of Curve
+Virtual price:  1002860686937823939
+Total supply:  11580361953468850899667
+Result:  11613489743644412555119
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9472900995857850064637
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_weth_900_dai_2021_4_30_rc_weth_900_dai_2021_4_30+3crv and withdraw LP tokens in 0xf085c77B66cD32182f3573cA2B10762DF3Caaa50 pool of Curve (3233ms)
+Virtual price:  1002970710407336542
+Total supply:  11580361953468850899667
+Result:  11614763855244744942957
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9471861841450748398427
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_weth_900_dai_2021_4_30+3crv and withdraw LP tokens in 0xf085c77B66cD32182f3573cA2B10762DF3Caaa50 pool of Curve (3378ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_weth_900_dai_2021_4_30+3crv and withdraw LP tokens in 0xf085c77B66cD32182f3573cA2B10762DF3Caaa50 pool of Curve
+Virtual price:  2337014149535717178
+Total supply:  9960765435942541960
+Result:  23278449764004026861
+23278449764004026861
+Amounts  0  :  23278449764004026861
+Deposit amount 0:  23278449764004026861
+Deposit amount 1:  0
+Min amount:  9462727164145414861
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_inv_300_dai_2021_4_30_rc_inv_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xaC63c167955007D5166Fec43255AD5675EfC3102 pool of Curve (3058ms)
+Virtual price:  2337219494763335486
+Total supply:  9960765435942541960
+Result:  23280495159649723057
+23280495159649723057
+Amounts  1  :  23280495159649723057
+Deposit amount 0:  0
+Deposit amount 1:  23280495159649723057
+Min amount:  9462727164145414861
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_inv_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xaC63c167955007D5166Fec43255AD5675EfC3102 pool of Curve (3604ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_inv_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xaC63c167955007D5166Fec43255AD5675EfC3102 pool of Curve
+Virtual price:  1779426188338913383
+Total supply:  9999290681146041753
+Result:  17792999702844517980
+17792999702844517980
+Amounts  0  :  17792999702844517980
+Deposit amount 0:  17792999702844517980
+Deposit amount 1:  0
+Min amount:  9499326147088739665
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      13) should deposit rc_xcover_150_dai_2021_4_30_rc_xcover_150_dai_2021_4_30+3crv and withdraw LP tokens in 0x421CB018b91b4048FaAC1760Cee3B66026B940f2 pool of Curve
+Virtual price:  1779426188338913383
+Total supply:  9999290681146041753
+Result:  17792999702844517980
+17792999702844517980
+Amounts  1  :  17792999702844517980
+Deposit amount 0:  0
+Deposit amount 1:  17792999702844517980
+Min amount:  9499326147088739665
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xcover_150_dai_2021_4_30+3crv and withdraw LP tokens in 0x421CB018b91b4048FaAC1760Cee3B66026B940f2 pool of Curve (3501ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xcover_150_dai_2021_4_30+3crv and withdraw LP tokens in 0x421CB018b91b4048FaAC1760Cee3B66026B940f2 pool of Curve
+Virtual price:  1002750348776561111
+Total supply:  20966008425316823178
+Result:  21023672260938763247
+21023672260938763247
+Amounts  0  :  21023672260938763247
+Deposit amount 0:  21023672260938763247
+Deposit amount 1:  0
+Min amount:  19917708004050982018
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_xsushi_8_dai_2021_4_30_rc_xsushi_8_dai_2021_4_30+3crv and withdraw LP tokens in 0x4AcE85cF348F316384A96b4739A1ab58f5123E7a pool of Curve (3013ms)
+Virtual price:  1002865082873333662
+Total supply:  20966008425316823178
+Result:  21026077776978367667
+21026077776978367667
+Amounts  1  :  21026077776978367667
+Deposit amount 0:  0
+Deposit amount 1:  21026077776978367667
+Min amount:  19917708004050982018
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xsushi_8_dai_2021_4_30+3crv and withdraw LP tokens in 0x4AcE85cF348F316384A96b4739A1ab58f5123E7a pool of Curve (3395ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xsushi_8_dai_2021_4_30+3crv and withdraw LP tokens in 0x4AcE85cF348F316384A96b4739A1ab58f5123E7a pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_bbadger_15_dai_2021_4_30_rc_bbadger_15_dai_2021_4_30+3crv and withdraw LP tokens in 0x23078d5BC3AAD79aEFa8773079EE703168F15cF5 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_bbadger_15_dai_2021_4_30+3crv and withdraw LP tokens in 0x23078d5BC3AAD79aEFa8773079EE703168F15cF5 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bbadger_15_dai_2021_4_30+3crv and withdraw LP tokens in 0x23078d5BC3AAD79aEFa8773079EE703168F15cF5 pool of Curve
+Virtual price:  1003021809816311019
+Total supply:  5247900235530421044886
+Result:  5263758391977167779849
+5263758391977167779849
+Amounts  0  :  5263758391977167779849
+Deposit amount 0:  5263758391977167779849
+Deposit amount 1:  0
+Min amount:  4985505223753899992641
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_xruler_125_dai_2021_4_30_rc_xruler_125_dai_2021_4_30+3crv and withdraw LP tokens in 0xaFcc5DADcDcFc4D353Ab2d36fbd57b80513a34e6 pool of Curve (3226ms)
+Virtual price:  1003123418362453185
+Total supply:  5247900235530421044886
+Result:  5264291623490399156455
+5264291623490399156455
+Amounts  1  :  5264291623490399156455
+Deposit amount 0:  0
+Deposit amount 1:  5264291623490399156455
+Min amount:  4985505223753899992641
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xruler_125_dai_2021_4_30+3crv and withdraw LP tokens in 0xaFcc5DADcDcFc4D353Ab2d36fbd57b80513a34e6 pool of Curve (3233ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xruler_125_dai_2021_4_30+3crv and withdraw LP tokens in 0xaFcc5DADcDcFc4D353Ab2d36fbd57b80513a34e6 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_bor_300_dai_2021_4_30_rc_bor_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xE764Fb1f870D621a197951F1A27aaC6d4F930329 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_bor_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xE764Fb1f870D621a197951F1A27aaC6d4F930329 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bor_300_dai_2021_4_30+3crv and withdraw LP tokens in 0xE764Fb1f870D621a197951F1A27aaC6d4F930329 pool of Curve
+Virtual price:  1003162813261985767
+Total supply:  36158887004135717207
+Result:  36273250811491042452
+36273250811491042452
+Amounts  0  :  36273250811491042452
+Deposit amount 0:  36273250811491042452
+Deposit amount 1:  0
+Min amount:  34350942653928931345
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_rgt_4_dai_2021_4_30_rc_rgt_4_dai_2021_4_30+3crv and withdraw LP tokens in 0xaF47f0877A9b26FfF12ec8253E07f92F89c6805D pool of Curve (3675ms)
+Virtual price:  1003293687845511554
+Total supply:  36158887004135717207
+Result:  36277983090768464706
+36277983090768464706
+Amounts  1  :  36277983090768464706
+Deposit amount 0:  0
+Deposit amount 1:  36277983090768464706
+Min amount:  34350942653928931345
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_rgt_4_dai_2021_4_30+3crv and withdraw LP tokens in 0xaF47f0877A9b26FfF12ec8253E07f92F89c6805D pool of Curve (4204ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_rgt_4_dai_2021_4_30+3crv and withdraw LP tokens in 0xaF47f0877A9b26FfF12ec8253E07f92F89c6805D pool of Curve
+Virtual price:  1002358508700880459
+Total supply:  21939485311878517490
+Result:  21991229778879422004
+21991229778879422004
+Amounts  0  :  21991229778879422004
+Deposit amount 0:  21991229778879422004
+Deposit amount 1:  0
+Min amount:  20842511046284591615
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_mask_700_dai_2021_4_30_rc_mask_700_dai_2021_4_30+3crv and withdraw LP tokens in 0x273AfbF6E257aae160749a61D4b83E06A841c3eB pool of Curve (4189ms)
+Virtual price:  1002437890799244784
+Total supply:  21939485311878517490
+Result:  21992971381260512208
+21992971381260512208
+Amounts  1  :  21992971381260512208
+Deposit amount 0:  0
+Deposit amount 1:  21992971381260512208
+Min amount:  20842511046284591615
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_mask_700_dai_2021_4_30+3crv and withdraw LP tokens in 0x273AfbF6E257aae160749a61D4b83E06A841c3eB pool of Curve (3535ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_mask_700_dai_2021_4_30+3crv and withdraw LP tokens in 0x273AfbF6E257aae160749a61D4b83E06A841c3eB pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_punk-basic_10000_dai_2021_4_30_rc_punk-basic_10000_dai_2021_4_30+3crv and withdraw LP tokens in 0xfB51e37CebC5D6f1569004206629BB7e47b6843f pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_punk-basic_10000_dai_2021_4_30+3crv and withdraw LP tokens in 0xfB51e37CebC5D6f1569004206629BB7e47b6843f pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_punk-basic_10000_dai_2021_4_30+3crv and withdraw LP tokens in 0xfB51e37CebC5D6f1569004206629BB7e47b6843f pool of Curve
+Skipping because total supply is zero
+      - should deposit fei_fei+3crv and withdraw LP tokens in 0x152d13e62952a7c74c536bb3C8b7BD91853F076A pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_fei+3crv and withdraw LP tokens in 0x152d13e62952a7c74c536bb3C8b7BD91853F076A pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit fei+3crv and withdraw LP tokens in 0x152d13e62952a7c74c536bb3C8b7BD91853F076A pool of Curve
+Skipping because total supply is zero
+      - should deposit tribe_tribe+3crv and withdraw LP tokens in 0xf01E56475ea4081e6640914b2310E1Aa8F09d2E1 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_tribe+3crv and withdraw LP tokens in 0xf01E56475ea4081e6640914b2310E1Aa8F09d2E1 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit tribe+3crv and withdraw LP tokens in 0xf01E56475ea4081e6640914b2310E1Aa8F09d2E1 pool of Curve
+Virtual price:  1324560275261756355
+Total supply:  9999377874589726931
+Result:  13244778710012884920
+13244778710012884920
+Amounts  0  :  13244778710012884920
+Deposit amount 0:  13244778710012884920
+Deposit amount 1:  0
+Min amount:  9499408980860240584
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      14) should deposit rc_defi5_60_dai_2021_4_30_rc_defi5_60_dai_2021_4_30+3crv and withdraw LP tokens in 0xbe735E6dd6c47d86BF8510D3c36Cba1a359B8dDc pool of Curve
+Virtual price:  1324560275261756355
+Total supply:  9999377874589726931
+Result:  13244778710012884920
+13244778710012884920
+Amounts  1  :  13244778710012884920
+Deposit amount 0:  0
+Deposit amount 1:  13244778710012884920
+Min amount:  9499408980860240584
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_defi5_60_dai_2021_4_30+3crv and withdraw LP tokens in 0xbe735E6dd6c47d86BF8510D3c36Cba1a359B8dDc pool of Curve (3696ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_defi5_60_dai_2021_4_30+3crv and withdraw LP tokens in 0xbe735E6dd6c47d86BF8510D3c36Cba1a359B8dDc pool of Curve
+Skipping because total supply is zero
+      - should deposit 1-rc_weth_1650_dai_2021_4_30_rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0xd97f71Bc0Ecb40B105dBACF5225d847d9c2334F8 pool of Curve
+Skipping because total supply is zero
+      - should deposit 1-3crv_rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0xd97f71Bc0Ecb40B105dBACF5225d847d9c2334F8 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 1-rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0xd97f71Bc0Ecb40B105dBACF5225d847d9c2334F8 pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-rc_weth_1650_dai_2021_4_30_rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0x2009f19A8B46642E92Ea19adCdFB23ab05fC20A6 pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-3crv_rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0x2009f19A8B46642E92Ea19adCdFB23ab05fC20A6 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 2-rc_weth_1650_dai_2021_4_30+3crv and withdraw LP tokens in 0x2009f19A8B46642E92Ea19adCdFB23ab05fC20A6 pool of Curve
+Virtual price:  1009401073699681319
+Total supply:  118858668552973104922610320
+Result:  119976067655885599436752482
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9411521591888514030527
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit lusd_lusd+3crv and withdraw LP tokens in 0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA pool of Curve (3225ms)
+Virtual price:  1009401089869470093
+Total supply:  118858668552973104922610320
+Result:  119976069577805163897203818
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9411521441123552797469
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_lusd+3crv and withdraw LP tokens in 0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA pool of Curve (3270ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit lusd+3crv and withdraw LP tokens in 0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA pool of Curve
+Virtual price:  1002025549356584466
+Total supply:  9999958409181249394
+Result:  10020213818502837893
+10020213818502837893
+Amounts  0  :  10020213818502837893
+Deposit amount 0:  10020213818502837893
+Deposit amount 1:  0
+Min amount:  9499960488722186923
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_fei_0.4_dai_2021_4_30_rc_fei_0.4_dai_2021_4_30+3crv and withdraw LP tokens in 0xA46649Ffe1860d79DBE777930aF8e802B8b48AC4 pool of Curve (3382ms)
+Virtual price:  1002109275740260948
+Total supply:  9999958409181249394
+Result:  10021051078857353865
+10021051078857353865
+Amounts  1  :  10021051078857353865
+Deposit amount 0:  0
+Deposit amount 1:  10021051078857353865
+Min amount:  9499960488722186923
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_fei_0.4_dai_2021_4_30+3crv and withdraw LP tokens in 0xA46649Ffe1860d79DBE777930aF8e802B8b48AC4 pool of Curve (3391ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_fei_0.4_dai_2021_4_30+3crv and withdraw LP tokens in 0xA46649Ffe1860d79DBE777930aF8e802B8b48AC4 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  7321215896000000000000000000
+TestDefiAdapter balance after:  1000000000000
+Virtual price:  1004602392849091255
+Total supply:  29422561064782905545216875
+Result:  29557975249429413171245590
+1000000000000
+Amounts  0  :  1000000000000
+Deposit amount 0:  1000000000000
+Deposit amount 1:  0
+Min amount:  945647757523
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit busd_busd+3crv and withdraw LP tokens in 0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a pool of Curve (3093ms)
+Virtual price:  1004602392849091258
+Total supply:  29422561064782905545216875
+Result:  29557975249429413259513273
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9456477575230168832207
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_busd+3crv and withdraw LP tokens in 0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a pool of Curve (3670ms)
+Entering...
+TestDefiAdapter balance before:  999807664779
+Whale balance before:  7321215895999999000000000000
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit busd+3crv and withdraw LP tokens in 0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  1224730778615930043
+TestDefiAdapter balance after:  1000000000000
+Skipping because total supply is zero
+      - should deposit 1-vbtc_vbtc+crvrenwsbtc and withdraw LP tokens in 0x87ca9AC842905628A83df72a23aa480091BB682e pool of Curve
+Skipping because total supply is zero
+      - should deposit 1-crvrenwsbtc_vbtc+crvrenwsbtc and withdraw LP tokens in 0x87ca9AC842905628A83df72a23aa480091BB682e pool of Curve
+Entering...
+TestDefiAdapter balance before:  1000000000000
+Whale balance before:  1224729778615930043
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 1-vbtc+crvrenwsbtc and withdraw LP tokens in 0x87ca9AC842905628A83df72a23aa480091BB682e pool of Curve
+Virtual price:  1003331927238451032
+Total supply:  130931526308065225493
+Result:  131367780626943035905
+131367780626943035905
+Amounts  0  :  131367780626943035905
+Deposit amount 0:  131367780626943035905
+Deposit amount 1:  0
+Min amount:  124384949992661964218
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      15) should deposit rc_xruler_250_dai_2021_5_31_rc_xruler_250_dai_2021_5_31+3crv and withdraw LP tokens in 0x51714B15aB2C2172914A005f4f2889f16Af7003c pool of Curve
+Virtual price:  1003331927238451032
+Total supply:  130931526308065225493
+Result:  131367780626943035905
+131367780626943035905
+Amounts  1  :  131367780626943035905
+Deposit amount 0:  0
+Deposit amount 1:  131367780626943035905
+Min amount:  124384949992661964218
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xruler_250_dai_2021_5_31+3crv and withdraw LP tokens in 0x51714B15aB2C2172914A005f4f2889f16Af7003c pool of Curve (6767ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xruler_250_dai_2021_5_31+3crv and withdraw LP tokens in 0x51714B15aB2C2172914A005f4f2889f16Af7003c pool of Curve
+Virtual price:  1001930457844869510
+Total supply:  31384731778816118705
+Result:  31445318680487659692
+31445318680487659692
+Amounts  0  :  31445318680487659692
+Deposit amount 0:  31445318680487659692
+Deposit amount 1:  0
+Min amount:  29815495189875312769
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_aave_300_dai_2021_5_31_rc_aave_300_dai_2021_5_31+3crv and withdraw LP tokens in 0x92719D8b48795CBccD7eC68114ea7a2Db8065140 pool of Curve (3631ms)
+Virtual price:  1001991210342231855
+Total supply:  31384731778816118705
+Result:  31447225381322270124
+31447225381322270124
+Amounts  1  :  31447225381322270124
+Deposit amount 0:  0
+Deposit amount 1:  31447225381322270124
+Min amount:  29815495189875312769
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_aave_300_dai_2021_5_31+3crv and withdraw LP tokens in 0x92719D8b48795CBccD7eC68114ea7a2Db8065140 pool of Curve (3397ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_aave_300_dai_2021_5_31+3crv and withdraw LP tokens in 0x92719D8b48795CBccD7eC68114ea7a2Db8065140 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_comp_350_dai_2021_5_31_rc_comp_350_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5C511E559342087d30a793705228bFEB881c325 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_comp_350_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5C511E559342087d30a793705228bFEB881c325 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_comp_350_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5C511E559342087d30a793705228bFEB881c325 pool of Curve
+Virtual price:  1002640141654333666
+Total supply:  1182080075336690063599
+Result:  1185200934182344337040
+1185200934182344337040
+Amounts  0  :  1185200934182344337040
+Deposit amount 0:  1185200934182344337040
+Deposit amount 1:  0
+Min amount:  1122976071569855560418
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_xpremia_0.4_dai_2021_5_31_rc_xpremia_0.4_dai_2021_5_31+3crv and withdraw LP tokens in 0xB0c6CE798da73F455c2ac4d669C9F4106c251193 pool of Curve (3652ms)
+Virtual price:  1002752286977152080
+Total supply:  1182080075336690063599
+Result:  1185333498933990185289
+1185333498933990185289
+Amounts  1  :  1185333498933990185289
+Deposit amount 0:  0
+Deposit amount 1:  1185333498933990185289
+Min amount:  1122976071569855560418
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xpremia_0.4_dai_2021_5_31+3crv and withdraw LP tokens in 0xB0c6CE798da73F455c2ac4d669C9F4106c251193 pool of Curve (3574ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xpremia_0.4_dai_2021_5_31+3crv and withdraw LP tokens in 0xB0c6CE798da73F455c2ac4d669C9F4106c251193 pool of Curve
+Entering...
+TestDefiAdapter balance before:  1000000000000
+Whale balance before:  1224729778615930043
+Skipping because total supply is zero
+      - should deposit 2-vbtc_vbtc+crvrenwsbtc and withdraw LP tokens in 0xdCB5BE55674ceC407D8A6D28aE2098FEdDf2c296 pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-crvrenwsbtc_vbtc+crvrenwsbtc and withdraw LP tokens in 0xdCB5BE55674ceC407D8A6D28aE2098FEdDf2c296 pool of Curve
+Entering...
+TestDefiAdapter balance before:  1000000000000
+Whale balance before:  1224729778615930043
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 2-vbtc+crvrenwsbtc and withdraw LP tokens in 0xdCB5BE55674ceC407D8A6D28aE2098FEdDf2c296 pool of Curve
+Virtual price:  1003447113824384134
+Total supply:  222090286156065
+Result:  222855856651734
+222855856651734
+Amounts  0  :  222855856651734
+Deposit amount 0:  222855856651734
+Deposit amount 1:  0
+Min amount:  210985771848260
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_alcx_700_dai_2021_5_31_rc_alcx_700_dai_2021_5_31+3crv and withdraw LP tokens in 0xcf2be480d37777E6eE846e935E57Aaae1fd466F4 pool of Curve (3536ms)
+Virtual price:  1003568032420157966
+Total supply:  222090286156065
+Result:  222882711497271
+222882711497271
+Amounts  1  :  222882711497271
+Deposit amount 0:  0
+Deposit amount 1:  222882711497271
+Min amount:  210985771848260
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_alcx_700_dai_2021_5_31+3crv and withdraw LP tokens in 0xcf2be480d37777E6eE846e935E57Aaae1fd466F4 pool of Curve (3588ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_alcx_700_dai_2021_5_31+3crv and withdraw LP tokens in 0xcf2be480d37777E6eE846e935E57Aaae1fd466F4 pool of Curve
+Virtual price:  1002008551497133935
+Total supply:  27263283517118593189
+Result:  27318043226043688672
+27318043226043688672
+Amounts  0  :  27318043226043688672
+Deposit amount 0:  27318043226043688672
+Deposit amount 1:  0
+Min amount:  25900119341262663529
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_oltc_140_dai_2021_5_31_rc_oltc_140_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5E2e90952d3Bdf8e9ACA1Fb38Fa195F0A108a9D pool of Curve (3163ms)
+Virtual price:  1002111225861011130
+Total supply:  27263283517118593189
+Result:  27320842466336012439
+27320842466336012439
+Amounts  1  :  27320842466336012439
+Deposit amount 0:  0
+Deposit amount 1:  27320842466336012439
+Min amount:  25900119341262663529
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_oltc_140_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5E2e90952d3Bdf8e9ACA1Fb38Fa195F0A108a9D pool of Curve (3697ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_oltc_140_dai_2021_5_31+3crv and withdraw LP tokens in 0xf5E2e90952d3Bdf8e9ACA1Fb38Fa195F0A108a9D pool of Curve
+Virtual price:  1002070015423941516
+Total supply:  1005092081893
+Result:  1007172638004
+1007172638004
+Amounts  0  :  1007172638004
+Deposit amount 0:  1007172638004
+Deposit amount 1:  0
+Min amount:  954837477797
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_wbtc_32000_dai_2021_5_31_rc_wbtc_32000_dai_2021_5_31+3crv and withdraw LP tokens in 0xda3B4449E055C76a740dC5796aFC7bE2A535a70F pool of Curve (3558ms)
+Virtual price:  1002172269027219769
+Total supply:  1005092081893
+Result:  1007275412291
+1007275412291
+Amounts  1  :  1007275412291
+Deposit amount 0:  0
+Deposit amount 1:  1007275412291
+Min amount:  954837477797
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_wbtc_32000_dai_2021_5_31+3crv and withdraw LP tokens in 0xda3B4449E055C76a740dC5796aFC7bE2A535a70F pool of Curve (3823ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_wbtc_32000_dai_2021_5_31+3crv and withdraw LP tokens in 0xda3B4449E055C76a740dC5796aFC7bE2A535a70F pool of Curve
+Virtual price:  1002159145008923885
+Total supply:  16567287453168807415
+Result:  16603058629184724147
+16603058629184724147
+Amounts  0  :  16603058629184724147
+Deposit amount 0:  16603058629184724147
+Deposit amount 1:  0
+Min amount:  15738923080510367043
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_weth_1600_dai_2021_5_31_rc_weth_1600_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E20205cd346CD8e5FcA92fCEa34Ead4057e4AE5 pool of Curve (4159ms)
+Virtual price:  1002250930997222827
+Total supply:  16567287453168807415
+Result:  16604579274037045908
+16604579274037045908
+Amounts  1  :  16604579274037045908
+Deposit amount 0:  0
+Deposit amount 1:  16604579274037045908
+Min amount:  15738923080510367043
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_weth_1600_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E20205cd346CD8e5FcA92fCEa34Ead4057e4AE5 pool of Curve (3878ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_weth_1600_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E20205cd346CD8e5FcA92fCEa34Ead4057e4AE5 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_xcover_260_dai_2021_5_31_rc_xcover_260_dai_2021_5_31+3crv and withdraw LP tokens in 0x11fbFe3a6c183Dcd6Fd9BaA42Fe39206174a6C00 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_xcover_260_dai_2021_5_31+3crv and withdraw LP tokens in 0x11fbFe3a6c183Dcd6Fd9BaA42Fe39206174a6C00 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xcover_260_dai_2021_5_31+3crv and withdraw LP tokens in 0x11fbFe3a6c183Dcd6Fd9BaA42Fe39206174a6C00 pool of Curve
+Virtual price:  3496151427250518178367
+Total supply:  99625946265048
+Result:  348307394225730995
+348307394225730995
+Amounts  0  :  348307394225730995
+Deposit amount 0:  348307394225730995
+Deposit amount 1:  0
+Min amount:  94644648951795
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_xruler_150_dai_2021_5_31_rc_xruler_150_dai_2021_5_31+3crv and withdraw LP tokens in 0xF9ef8A8dE38ceA3196a4E009aD7A7aF6F5A3d776 pool of Curve (5189ms)
+Virtual price:  9041104713695349531180
+Total supply:  99625946265048
+Result:  900728612383285074
+900728612383285074
+Amounts  1  :  900728612383285074
+Deposit amount 0:  0
+Deposit amount 1:  900728612383285074
+Min amount:  94644648951795
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      16) should deposit 3crv_rc_xruler_150_dai_2021_5_31+3crv and withdraw LP tokens in 0xF9ef8A8dE38ceA3196a4E009aD7A7aF6F5A3d776 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xruler_150_dai_2021_5_31+3crv and withdraw LP tokens in 0xF9ef8A8dE38ceA3196a4E009aD7A7aF6F5A3d776 pool of Curve
+Virtual price:  1003140564802027436
+Total supply:  100299974997018577566250
+Result:  100614973568138445996008
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9470258040930536256506
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_bbadger_17_dai_2021_5_31_rc_bbadger_17_dai_2021_5_31+3crv and withdraw LP tokens in 0x9d7ee35a38952bd5Ad36dB0BF435a298363ac1Aa pool of Curve (3727ms)
+Virtual price:  1003176756418633908
+Total supply:  100299974997018577566250
+Result:  100618603586379176819949
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9469916382348448169610
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_bbadger_17_dai_2021_5_31+3crv and withdraw LP tokens in 0x9d7ee35a38952bd5Ad36dB0BF435a298363ac1Aa pool of Curve (3554ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bbadger_17_dai_2021_5_31+3crv and withdraw LP tokens in 0x9d7ee35a38952bd5Ad36dB0BF435a298363ac1Aa pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_xsushi_7_dai_2021_5_31_rc_xsushi_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x4EB0Bb03A246b955D36316a96BE314885c23a1B0 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_xsushi_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x4EB0Bb03A246b955D36316a96BE314885c23a1B0 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xsushi_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x4EB0Bb03A246b955D36316a96BE314885c23a1B0 pool of Curve
+Virtual price:  1002280934508335822
+Total supply:  163081728870960223773
+Result:  163453707614021063258
+163453707614021063258
+Amounts  0  :  163453707614021063258
+Deposit amount 0:  163453707614021063258
+Deposit amount 1:  0
+Min amount:  154927642427412212583
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_weth_1900_dai_2021_5_31_rc_weth_1900_dai_2021_5_31+3crv and withdraw LP tokens in 0xDa3028f415374dE92cD5A7C64F865a6B1AAbf804 pool of Curve (3547ms)
+Virtual price:  1002382032938170897
+Total supply:  163081728870960223773
+Result:  163470194920744706755
+163470194920744706755
+Amounts  1  :  163470194920744706755
+Deposit amount 0:  0
+Deposit amount 1:  163470194920744706755
+Min amount:  154927642427412212583
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_weth_1900_dai_2021_5_31+3crv and withdraw LP tokens in 0xDa3028f415374dE92cD5A7C64F865a6B1AAbf804 pool of Curve (3591ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_weth_1900_dai_2021_5_31+3crv and withdraw LP tokens in 0xDa3028f415374dE92cD5A7C64F865a6B1AAbf804 pool of Curve
+Virtual price:  1002068953736154584
+Total supply:  257939388760764247
+Result:  258473053422842259
+258473053422842259
+Amounts  0  :  258473053422842259
+Deposit amount 0:  258473053422842259
+Deposit amount 1:  0
+Min amount:  245042419322726033
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_defi5_60_dai_2021_5_31_rc_defi5_60_dai_2021_5_31+3crv and withdraw LP tokens in 0x0750da0ED0a4448eD516c326d702e7Fee88F4aD9 pool of Curve (3567ms)
+Virtual price:  1002163636782688406
+Total supply:  257939388760764247
+Result:  258497475909991200
+258497475909991200
+Amounts  1  :  258497475909991200
+Deposit amount 0:  0
+Deposit amount 1:  258497475909991200
+Min amount:  245042419322726033
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_defi5_60_dai_2021_5_31+3crv and withdraw LP tokens in 0x0750da0ED0a4448eD516c326d702e7Fee88F4aD9 pool of Curve (3742ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_defi5_60_dai_2021_5_31+3crv and withdraw LP tokens in 0x0750da0ED0a4448eD516c326d702e7Fee88F4aD9 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_bor_330_dai_2021_5_31_rc_bor_330_dai_2021_5_31+3crv and withdraw LP tokens in 0xe69fC18b2252f5c3Cf8b8C35CE06AF0Bb461d476 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_bor_330_dai_2021_5_31+3crv and withdraw LP tokens in 0xe69fC18b2252f5c3Cf8b8C35CE06AF0Bb461d476 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bor_330_dai_2021_5_31+3crv and withdraw LP tokens in 0xe69fC18b2252f5c3Cf8b8C35CE06AF0Bb461d476 pool of Curve
+Virtual price:  1002466708045736932
+Total supply:  8212557105746368862325
+Result:  8232815086435187442260
+8232815086435187442260
+Amounts  0  :  8232815086435187442260
+Deposit amount 0:  8232815086435187442260
+Deposit amount 1:  0
+Min amount:  7801929250459050419208
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_veth2_1200_dai_2021_5_31_rc_veth2_1200_dai_2021_5_31+3crv and withdraw LP tokens in 0x3c7Ac391Ad242c7C2Cfbf004ed72C0bDf9d620cc pool of Curve (3653ms)
+Virtual price:  1002593278351556306
+Total supply:  8212557105746368862325
+Result:  8233854552299620833185
+8233854552299620833185
+Amounts  1  :  8233854552299620833185
+Deposit amount 0:  0
+Deposit amount 1:  8233854552299620833185
+Min amount:  7801929250459050419207
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_veth2_1200_dai_2021_5_31+3crv and withdraw LP tokens in 0x3c7Ac391Ad242c7C2Cfbf004ed72C0bDf9d620cc pool of Curve (3773ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_veth2_1200_dai_2021_5_31+3crv and withdraw LP tokens in 0x3c7Ac391Ad242c7C2Cfbf004ed72C0bDf9d620cc pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_inv_350_dai_2021_5_31_rc_inv_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x883F7d4B6B24F8BF1dB980951Ad08930D9AEC6Bc pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_inv_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x883F7d4B6B24F8BF1dB980951Ad08930D9AEC6Bc pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_inv_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x883F7d4B6B24F8BF1dB980951Ad08930D9AEC6Bc pool of Curve
+Virtual price:  1002218455353063296
+Total supply:  21321509739056
+Result:  21368810556471
+21368810556471
+Amounts  0  :  21368810556471
+Deposit amount 0:  21368810556471
+Deposit amount 1:  0
+Min amount:  20255434252102
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_vvsp_25_dai_2021_5_31_rc_vvsp_25_dai_2021_5_31+3crv and withdraw LP tokens in 0xD5c91b8161924F389A33E97FC8624431a53858F5 pool of Curve (3602ms)
+Virtual price:  1002313064354428005
+Total supply:  21321509739056
+Result:  21370827763215
+21370827763215
+Amounts  1  :  21370827763215
+Deposit amount 0:  0
+Deposit amount 1:  21370827763215
+Min amount:  20255434252102
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_vvsp_25_dai_2021_5_31+3crv and withdraw LP tokens in 0xD5c91b8161924F389A33E97FC8624431a53858F5 pool of Curve (3267ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_vvsp_25_dai_2021_5_31+3crv and withdraw LP tokens in 0xD5c91b8161924F389A33E97FC8624431a53858F5 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_ifarm_110_dai_2021_5_31_rc_ifarm_110_dai_2021_5_31+3crv and withdraw LP tokens in 0xDD577F3c26e322d6e790947D5e56362c3F99Cc6d pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_ifarm_110_dai_2021_5_31+3crv and withdraw LP tokens in 0xDD577F3c26e322d6e790947D5e56362c3F99Cc6d pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_ifarm_110_dai_2021_5_31+3crv and withdraw LP tokens in 0xDD577F3c26e322d6e790947D5e56362c3F99Cc6d pool of Curve
+Virtual price:  1001793098477690135
+Total supply:  79529932
+Result:  79672536
+79672536
+Amounts  0  :  79672536
+Deposit amount 0:  79672536
+Deposit amount 1:  0
+Min amount:  75553434
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_yvyfi_25000_dai_2021_5_31_rc_yvyfi_25000_dai_2021_5_31+3crv and withdraw LP tokens in 0x9231dfF16BE1020dcE7dd6F48d565FDA123c11C8 pool of Curve (3410ms)
+Virtual price:  1001884435158325044
+Total supply:  79529932
+Result:  79679800
+79679800
+Amounts  1  :  79679800
+Deposit amount 0:  0
+Deposit amount 1:  79679800
+Min amount:  75553434
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_yvyfi_25000_dai_2021_5_31+3crv and withdraw LP tokens in 0x9231dfF16BE1020dcE7dd6F48d565FDA123c11C8 pool of Curve (3473ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_yvyfi_25000_dai_2021_5_31+3crv and withdraw LP tokens in 0x9231dfF16BE1020dcE7dd6F48d565FDA123c11C8 pool of Curve
+Virtual price:  1002146863650151189
+Total supply:  9207522299916767136568
+Result:  9227289594850414918048
+9227289594850414918048
+Amounts  0  :  9227289594850414918048
+Deposit amount 0:  9227289594850414918048
+Deposit amount 1:  0
+Min amount:  8747146184920928779739
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_rai_2_dai_2021_5_31_rc_rai_2_dai_2021_5_31+3crv and withdraw LP tokens in 0xAf7c2Fb62ea78Bd5bE98F716de55B480C354f17B pool of Curve (3581ms)
+Virtual price:  1002253941832746332
+Total supply:  9207522299916767136568
+Result:  9228275519604494256668
+9228275519604494256668
+Amounts  1  :  9228275519604494256668
+Deposit amount 0:  0
+Deposit amount 1:  9228275519604494256668
+Min amount:  8747146184920928779739
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_rai_2_dai_2021_5_31+3crv and withdraw LP tokens in 0xAf7c2Fb62ea78Bd5bE98F716de55B480C354f17B pool of Curve (4003ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_rai_2_dai_2021_5_31+3crv and withdraw LP tokens in 0xAf7c2Fb62ea78Bd5bE98F716de55B480C354f17B pool of Curve
+Virtual price:  2076469254283344680
+Total supply:  6057995299814651203
+Result:  12579240982658135861
+12579240982658135861
+Amounts  0  :  12579240982658135861
+Deposit amount 0:  12579240982658135861
+Deposit amount 1:  0
+Min amount:  5755095534823918642
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      17) should deposit rc_bdpi_350_dai_2021_5_31_rc_bdpi_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x5c277D5CC9b258Ca957FF83Ec41d153c4DF7619A pool of Curve
+Virtual price:  2076469254283344680
+Total supply:  6057995299814651203
+Result:  12579240982658135861
+12579240982658135861
+Amounts  1  :  12579240982658135861
+Deposit amount 0:  0
+Deposit amount 1:  12579240982658135861
+Min amount:  5755095534823918642
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_bdpi_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x5c277D5CC9b258Ca957FF83Ec41d153c4DF7619A pool of Curve (3873ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bdpi_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x5c277D5CC9b258Ca957FF83Ec41d153c4DF7619A pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_pickle_7_dai_2021_5_31_rc_pickle_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x3EaC18b3e7A4663d38cb6EDB6024cad9d5E76a49 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_pickle_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x3EaC18b3e7A4663d38cb6EDB6024cad9d5E76a49 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_pickle_7_dai_2021_5_31+3crv and withdraw LP tokens in 0x3EaC18b3e7A4663d38cb6EDB6024cad9d5E76a49 pool of Curve
+Virtual price:  1001790381302822752
+Total supply:  100006146218043927073
+Result:  100185195352400071191
+100185195
+Amounts  0  :  100185195
+Deposit amount 0:  100185195
+Deposit amount 1:  0
+Min amount:  95005838572959975852
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit opium_lp_af0d_opium_lp_af0d+3crv and withdraw LP tokens in 0x6448113F6c31F738B7c6b24c1b4A1Cf23c6133f2 pool of Curve (3729ms)
+Virtual price:  1002543973824636210
+Total supply:  100006146218043927073
+Result:  100260559236325372330
+100260559236325372330
+Amounts  1  :  100260559236325372330
+Deposit amount 0:  0
+Deposit amount 1:  100260559236325372330
+Min amount:  95005838907141730719
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_opium_lp_af0d+3crv and withdraw LP tokens in 0x6448113F6c31F738B7c6b24c1b4A1Cf23c6133f2 pool of Curve (4763ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit opium_lp_af0d+3crv and withdraw LP tokens in 0x6448113F6c31F738B7c6b24c1b4A1Cf23c6133f2 pool of Curve
+Virtual price:  1001729831128817164
+Total supply:  200007352360290605587
+Result:  200353331304395739355
+200353331304395739355
+Amounts  0  :  200353331304395739355
+Deposit amount 0:  200353331304395739355
+Deposit amount 1:  0
+Min amount:  190006984742276075306
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit crylyl_crylyl+3crv and withdraw LP tokens in 0xE75916b70c0E1C58bB605948066151EA449561F4 pool of Curve (4990ms)
+Virtual price:  1001832681338057519
+Total supply:  200007352360290605587
+Result:  200373902102435604655
+200373902102435604655
+Amounts  1  :  200373902102435604655
+Deposit amount 0:  0
+Deposit amount 1:  200373902102435604655
+Min amount:  190006984742276075307
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_crylyl+3crv and withdraw LP tokens in 0xE75916b70c0E1C58bB605948066151EA449561F4 pool of Curve (5146ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit crylyl+3crv and withdraw LP tokens in 0xE75916b70c0E1C58bB605948066151EA449561F4 pool of Curve
+Virtual price:  1001769915704398454
+Total supply:  99999466134081469831
+Result:  100176456759623641981
+100176456
+Amounts  0  :  100176456
+Deposit amount 0:  100176456
+Deposit amount 1:  0
+Min amount:  94999492107009926155
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit opium_lp_1c60_opium_lp_1c60+3crv and withdraw LP tokens in 0x5400234516485A8e474A6f1c34DBed940a1A866E pool of Curve (3730ms)
+Virtual price:  1002523423490963081
+Total supply:  99999466134081469831
+Result:  100251807136007978087
+100251807136007978087
+Amounts  1  :  100251807136007978087
+Deposit amount 0:  0
+Deposit amount 1:  100251807136007978087
+Min amount:  94999492827377396339
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_opium_lp_1c60+3crv and withdraw LP tokens in 0x5400234516485A8e474A6f1c34DBed940a1A866E pool of Curve (4536ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit opium_lp_1c60+3crv and withdraw LP tokens in 0x5400234516485A8e474A6f1c34DBed940a1A866E pool of Curve
+Virtual price:  1002001862063511482
+Total supply:  499428122095599656297
+Result:  500427908306673617802
+500427908306673617802
+Amounts  0  :  500427908306673617802
+Deposit amount 0:  500427908306673617802
+Deposit amount 1:  0
+Min amount:  474456715990819673481
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_armor_0.35_dai_2021_5_31_rc_armor_0.35_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E556F647f79e734530F2B354FBf339553fB1f6E pool of Curve (3885ms)
+Virtual price:  1002106041521810087
+Total supply:  499428122095599656297
+Result:  500479938457892626933
+500479938457892626933
+Amounts  1  :  500479938457892626933
+Deposit amount 0:  0
+Deposit amount 1:  500479938457892626933
+Min amount:  474456715990819673481
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_armor_0.35_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E556F647f79e734530F2B354FBf339553fB1f6E pool of Curve (4031ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_armor_0.35_dai_2021_5_31+3crv and withdraw LP tokens in 0x1E556F647f79e734530F2B354FBf339553fB1f6E pool of Curve
+Virtual price:  1001920053787547140
+Total supply:  15949188615101601038
+Result:  15979811915110330591
+15979811915110330591
+Amounts  0  :  15979811915110330591
+Deposit amount 0:  15979811915110330591
+Deposit amount 1:  0
+Min amount:  15151729184346520985
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_exrd_0.06_dai_2021_5_31_rc_exrd_0.06_dai_2021_5_31+3crv and withdraw LP tokens in 0xC55834C9cDf6e92e0ceB181fd07f6243eAC0f598 pool of Curve (5140ms)
+Virtual price:  1002014122321743148
+Total supply:  15949188615101601038
+Result:  15981312231904968857
+15981312231904968857
+Amounts  1  :  15981312231904968857
+Deposit amount 0:  0
+Deposit amount 1:  15981312231904968857
+Min amount:  15151729184346520985
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_exrd_0.06_dai_2021_5_31+3crv and withdraw LP tokens in 0xC55834C9cDf6e92e0ceB181fd07f6243eAC0f598 pool of Curve (4158ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_exrd_0.06_dai_2021_5_31+3crv and withdraw LP tokens in 0xC55834C9cDf6e92e0ceB181fd07f6243eAC0f598 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  399728279330650197
+TestDefiAdapter balance after:  999999999999
+Virtual price:  1000990484957838310
+Total supply:  39961606347189330
+Result:  40001187717167276
+999999999999
+Amounts  0  :  999999999999
+Deposit amount 0:  999999999999
+Deposit amount 1:  0
+Min amount:  949059970374
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit curvebtc+_curvebtc++crvrenwsbtc and withdraw LP tokens in 0xf6b657Cb19A4cB2AF427D50F3054104871100D52 pool of Curve (7850ms)
+Virtual price:  1000990489812408978
+Total supply:  39961606347189330
+Result:  40001187911163718
+40001187911163718
+Amounts  1  :  40001187911163718
+Deposit amount 0:  0
+Deposit amount 1:  40001187911163718
+Min amount:  37963526029829862
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit crvrenwsbtc_curvebtc++crvrenwsbtc and withdraw LP tokens in 0xf6b657Cb19A4cB2AF427D50F3054104871100D52 pool of Curve (5182ms)
+Entering...
+TestDefiAdapter balance before:  999610957573
+Whale balance before:  399832743512197727
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit curvebtc++crvrenwsbtc and withdraw LP tokens in 0xf6b657Cb19A4cB2AF427D50F3054104871100D52 pool of Curve
+Virtual price:  1002057894652730997
+Total supply:  384304407764307534417
+Result:  385095265750066655537
+385095265750066655537
+Amounts  0  :  385095265750066655537
+Deposit amount 0:  385095265750066655537
+Deposit amount 1:  0
+Min amount:  365089187376092157695
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      18) should deposit rc_weth_2000_dai_2021_6_30_rc_weth_2000_dai_2021_6_30+3crv and withdraw LP tokens in 0x56680FDEbDd3e31f79938fa1222bFea4706a0758 pool of Curve
+Virtual price:  1002057894652730997
+Total supply:  384304407764307534417
+Result:  385095265750066655537
+385095265750066655537
+Amounts  1  :  385095265750066655537
+Deposit amount 0:  0
+Deposit amount 1:  385095265750066655537
+Min amount:  365089187376092157695
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_weth_2000_dai_2021_6_30+3crv and withdraw LP tokens in 0x56680FDEbDd3e31f79938fa1222bFea4706a0758 pool of Curve (3952ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_weth_2000_dai_2021_6_30+3crv and withdraw LP tokens in 0x56680FDEbDd3e31f79938fa1222bFea4706a0758 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_weth_1400_dai_2021_7_31_rc_weth_1400_dai_2021_7_31+3crv and withdraw LP tokens in 0x0212133321479B183637e52942564162bCc37C1D pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_weth_1400_dai_2021_7_31+3crv and withdraw LP tokens in 0x0212133321479B183637e52942564162bCc37C1D pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_weth_1400_dai_2021_7_31+3crv and withdraw LP tokens in 0x0212133321479B183637e52942564162bCc37C1D pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_wbtc_22000_dai_2021_7_31_rc_wbtc_22000_dai_2021_7_31+3crv and withdraw LP tokens in 0x8e49801018361aBb1EDe67D5B12907A5F895C623 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_wbtc_22000_dai_2021_7_31+3crv and withdraw LP tokens in 0x8e49801018361aBb1EDe67D5B12907A5F895C623 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_wbtc_22000_dai_2021_7_31+3crv and withdraw LP tokens in 0x8e49801018361aBb1EDe67D5B12907A5F895C623 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_xruler_15_dai_2021_6_30_rc_xruler_15_dai_2021_6_30+3crv and withdraw LP tokens in 0x46f5ab27914A670CFE260A2DEDb87f84c264835f pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_xruler_15_dai_2021_6_30+3crv and withdraw LP tokens in 0x46f5ab27914A670CFE260A2DEDb87f84c264835f pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xruler_15_dai_2021_6_30+3crv and withdraw LP tokens in 0x46f5ab27914A670CFE260A2DEDb87f84c264835f pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_xcover_100_dai_2021_6_30_rc_xcover_100_dai_2021_6_30+3crv and withdraw LP tokens in 0x2206cF41E7Db9393a3BcbB6Ad35d344811523b46 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_xcover_100_dai_2021_6_30+3crv and withdraw LP tokens in 0x2206cF41E7Db9393a3BcbB6Ad35d344811523b46 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xcover_100_dai_2021_6_30+3crv and withdraw LP tokens in 0x2206cF41E7Db9393a3BcbB6Ad35d344811523b46 pool of Curve
+Virtual price:  4056973950316842440
+Total supply:  624832140621038380
+Result:  2534927717820262869
+2534927717820262869
+Amounts  0  :  2534927717820262869
+Deposit amount 0:  2534927717820262869
+Deposit amount 1:  0
+Min amount:  593590533589986460
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      19) should deposit rc_veth2_1300_dai_2021_6_30_rc_veth2_1300_dai_2021_6_30+3crv and withdraw LP tokens in 0xC3134cCB0810418Dcc2540c7df6E4995a9966d4e pool of Curve
+Virtual price:  4056973950316842440
+Total supply:  624832140621038380
+Result:  2534927717820262869
+2534927717820262869
+Amounts  1  :  2534927717820262869
+Deposit amount 0:  0
+Deposit amount 1:  2534927717820262869
+Min amount:  593590533589986460
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_veth2_1300_dai_2021_6_30+3crv and withdraw LP tokens in 0xC3134cCB0810418Dcc2540c7df6E4995a9966d4e pool of Curve (4499ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_veth2_1300_dai_2021_6_30+3crv and withdraw LP tokens in 0xC3134cCB0810418Dcc2540c7df6E4995a9966d4e pool of Curve
+Skipping because total supply is zero
+      - should deposit 1-rc_bbadger_5_dai_2021_6_30_rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x0043Fcb34e7470130fDe28198571DeE092c70Bd7 pool of Curve
+Skipping because total supply is zero
+      - should deposit 1-3crv_rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x0043Fcb34e7470130fDe28198571DeE092c70Bd7 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 1-rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x0043Fcb34e7470130fDe28198571DeE092c70Bd7 pool of Curve
+Virtual price:  4059733858475363669594
+Total supply:  77038026284994
+Result:  312753883699305177
+312753883699305177
+Amounts  0  :  312753883699305177
+Deposit amount 0:  312753883699305177
+Deposit amount 1:  0
+Min amount:  73186124970744
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      20) should deposit rc_alcx_300_dai_2021_6_30_rc_alcx_300_dai_2021_6_30+3crv and withdraw LP tokens in 0x439bfaE666826a7cB73663E366c12f03d0A13B49 pool of Curve
+Virtual price:  4059733858475363669594
+Total supply:  77038026284994
+Result:  312753883699305177
+312753883699305177
+Amounts  1  :  312753883699305177
+Deposit amount 0:  0
+Deposit amount 1:  312753883699305177
+Min amount:  73186124970744
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_alcx_300_dai_2021_6_30+3crv and withdraw LP tokens in 0x439bfaE666826a7cB73663E366c12f03d0A13B49 pool of Curve (5769ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_alcx_300_dai_2021_6_30+3crv and withdraw LP tokens in 0x439bfaE666826a7cB73663E366c12f03d0A13B49 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_ifarm_30_dai_2021_6_30_rc_ifarm_30_dai_2021_6_30+3crv and withdraw LP tokens in 0xBc984294CedABE05d7317CC55BCdA241a7222615 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_ifarm_30_dai_2021_6_30+3crv and withdraw LP tokens in 0xBc984294CedABE05d7317CC55BCdA241a7222615 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_ifarm_30_dai_2021_6_30+3crv and withdraw LP tokens in 0xBc984294CedABE05d7317CC55BCdA241a7222615 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_bdi_150_dai_2021_6_30_rc_bdi_150_dai_2021_6_30+3crv and withdraw LP tokens in 0x0457E0ed628143b6A6A39f6e3458153f96abB26a pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_bdi_150_dai_2021_6_30+3crv and withdraw LP tokens in 0x0457E0ed628143b6A6A39f6e3458153f96abB26a pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_bdi_150_dai_2021_6_30+3crv and withdraw LP tokens in 0x0457E0ed628143b6A6A39f6e3458153f96abB26a pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_armor_0.15_dai_2021_6_30_rc_armor_0.15_dai_2021_6_30+3crv and withdraw LP tokens in 0x3c9aEEb08be0c10cA4135e981F2C73dF8a28F8a0 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_armor_0.15_dai_2021_6_30+3crv and withdraw LP tokens in 0x3c9aEEb08be0c10cA4135e981F2C73dF8a28F8a0 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_armor_0.15_dai_2021_6_30+3crv and withdraw LP tokens in 0x3c9aEEb08be0c10cA4135e981F2C73dF8a28F8a0 pool of Curve
+Virtual price:  1002038423966134809
+Total supply:  307100
+Result:  307725
+307725
+Amounts  0  :  307725
+Deposit amount 0:  307725
+Deposit amount 1:  0
+Min amount:  291744
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_exrd_0.04_dai_2021_6_30_rc_exrd_0.04_dai_2021_6_30+3crv and withdraw LP tokens in 0xDc0b9c549809BD4BDe021BD35A99f612D472d827 pool of Curve (3661ms)
+Virtual price:  1002139368283946597
+Total supply:  307100
+Result:  307756
+307756
+Amounts  1  :  307756
+Deposit amount 0:  0
+Deposit amount 1:  307756
+Min amount:  291744
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_exrd_0.04_dai_2021_6_30+3crv and withdraw LP tokens in 0xDc0b9c549809BD4BDe021BD35A99f612D472d827 pool of Curve (3249ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_exrd_0.04_dai_2021_6_30+3crv and withdraw LP tokens in 0xDc0b9c549809BD4BDe021BD35A99f612D472d827 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_ibbtc_20000_dai_2021_6_30_rc_ibbtc_20000_dai_2021_6_30+3crv and withdraw LP tokens in 0x8aEe2e72ff7e34fC15dcAD5BbAa6AB2dF1bdEb1c pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_ibbtc_20000_dai_2021_6_30+3crv and withdraw LP tokens in 0x8aEe2e72ff7e34fC15dcAD5BbAa6AB2dF1bdEb1c pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_ibbtc_20000_dai_2021_6_30+3crv and withdraw LP tokens in 0x8aEe2e72ff7e34fC15dcAD5BbAa6AB2dF1bdEb1c pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_near_1.1_dai_2021_6_30_rc_near_1.1_dai_2021_6_30+3crv and withdraw LP tokens in 0x620E3C54d8c6efCA7476D657c57dA5Eb144d3f81 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_near_1.1_dai_2021_6_30+3crv and withdraw LP tokens in 0x620E3C54d8c6efCA7476D657c57dA5Eb144d3f81 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_near_1.1_dai_2021_6_30+3crv and withdraw LP tokens in 0x620E3C54d8c6efCA7476D657c57dA5Eb144d3f81 pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-rc_bbadger_5_dai_2021_6_30_rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x8B93c5727fF8c0e4CD16f8ae8dFe4DAc8730C4BE pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-3crv_rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x8B93c5727fF8c0e4CD16f8ae8dFe4DAc8730C4BE pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 2-rc_bbadger_5_dai_2021_6_30+3crv and withdraw LP tokens in 0x8B93c5727fF8c0e4CD16f8ae8dFe4DAc8730C4BE pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_vvsp_7_dai_2021_7_31_rc_vvsp_7_dai_2021_7_31+3crv and withdraw LP tokens in 0xd752B367B1d5998446daA6E9Eb90d05D12d9f263 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_vvsp_7_dai_2021_7_31+3crv and withdraw LP tokens in 0xd752B367B1d5998446daA6E9Eb90d05D12d9f263 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_vvsp_7_dai_2021_7_31+3crv and withdraw LP tokens in 0xd752B367B1d5998446daA6E9Eb90d05D12d9f263 pool of Curve
+Virtual price:  1003684685065710249
+Total supply:  2669236758448698685767624338
+Result:  2679072055269399441122208861
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9465123998955951335665
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit mim_mim+3crv and withdraw LP tokens in 0x5a6A4D54456819380173272A5E8E9B9904BdF41B pool of Curve (3687ms)
+Virtual price:  1003684685659766919
+Total supply:  2669236758448698685767624338
+Result:  2679072056855077341287837168
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9465123993353773555837
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_mim+3crv and withdraw LP tokens in 0x5a6A4D54456819380173272A5E8E9B9904BdF41B pool of Curve (3498ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit mim+3crv and withdraw LP tokens in 0x5a6A4D54456819380173272A5E8E9B9904BdF41B pool of Curve
+Virtual price:  1343255640304652624
+Total supply:  196683308170178496362405
+Result:  264195963053370430976565
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  7072369335330231052738
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit uad_uad+3crv and withdraw LP tokens in 0x20955CB69Ae1515962177D164dfC9522feef567E pool of Curve (5583ms)
+Virtual price:  1343264959088125132
+Total supply:  196683308170178496362405
+Result:  264197795902531925433621
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  7072320271384932957622
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_uad+3crv and withdraw LP tokens in 0x20955CB69Ae1515962177D164dfC9522feef567E pool of Curve (3921ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit uad+3crv and withdraw LP tokens in 0x20955CB69Ae1515962177D164dfC9522feef567E pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_inv_100_dai_2021_7_31_rc_inv_100_dai_2021_7_31+3crv and withdraw LP tokens in 0xEAF21e096793d92A1028Bb6F2570846d79165B48 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_inv_100_dai_2021_7_31+3crv and withdraw LP tokens in 0xEAF21e096793d92A1028Bb6F2570846d79165B48 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_inv_100_dai_2021_7_31+3crv and withdraw LP tokens in 0xEAF21e096793d92A1028Bb6F2570846d79165B48 pool of Curve
+Virtual price:  1001061554512286626
+Total supply:  1478499520750452865182
+Result:  1480069028588119122450
+1480069028
+Amounts  0  :  1480069028
+Deposit amount 0:  1480069028
+Deposit amount 1:  0
+Min amount:  1404574544154809531132
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit kmxsushi/usdt-link_kmxsushi/usdt-link+3crv and withdraw LP tokens in 0xF420cdabD89a40D98541df39014576CeAB01cdc7 pool of Curve (3963ms)
+Virtual price:  1001165191589203374
+Total supply:  1478499520750452865182
+Result:  1480222255956672512189
+1480222255956672512189
+Amounts  1  :  1480222255956672512189
+Deposit amount 0:  0
+Deposit amount 1:  1480222255956672512189
+Min amount:  1404574544712930221921
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_kmxsushi/usdt-link+3crv and withdraw LP tokens in 0xF420cdabD89a40D98541df39014576CeAB01cdc7 pool of Curve (3933ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit kmxsushi/usdt-link+3crv and withdraw LP tokens in 0xF420cdabD89a40D98541df39014576CeAB01cdc7 pool of Curve
+Skipping because total supply is zero
+      - should deposit rusd_rusd+3crv and withdraw LP tokens in 0xC3018Fc8B7aC3a01c1fAdb3292B50e6faC417486 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rusd+3crv and withdraw LP tokens in 0xC3018Fc8B7aC3a01c1fAdb3292B50e6faC417486 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rusd+3crv and withdraw LP tokens in 0xC3018Fc8B7aC3a01c1fAdb3292B50e6faC417486 pool of Curve
+Virtual price:  1009196977936874513
+Total supply:  11541265790609797480780
+Result:  11647410557449640371166
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9413424938529916043389
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit vusd_vusd+3crv and withdraw LP tokens in 0x4dF9E1A764Fb8Df1113EC02fc9dc75963395b508 pool of Curve (3806ms)
+Virtual price:  1009275290817512541
+Total supply:  11541265790609797480780
+Result:  11648314387219912152093
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9412694520941857384151
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_vusd+3crv and withdraw LP tokens in 0x4dF9E1A764Fb8Df1113EC02fc9dc75963395b508 pool of Curve (4247ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit vusd+3crv and withdraw LP tokens in 0x4dF9E1A764Fb8Df1113EC02fc9dc75963395b508 pool of Curve
+Virtual price:  1000881159284963397
+Total supply:  50175762514374811964594
+Result:  50219975353394471692691
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9491636356494978302178
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+      21) should deposit bpf_bpf+3crv and withdraw LP tokens in 0xeb20b6Dda329685863c7193d8C3b13D3DEf9a02F pool of Curve
+Virtual price:  1000881159284963397
+Total supply:  50175762514374811964594
+Result:  50219975353394471692691
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9491636356494978302178
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_bpf+3crv and withdraw LP tokens in 0xeb20b6Dda329685863c7193d8C3b13D3DEf9a02F pool of Curve (4551ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit bpf+3crv and withdraw LP tokens in 0xeb20b6Dda329685863c7193d8C3b13D3DEf9a02F pool of Curve
+Skipping because total supply is zero
+      - should deposit xruler_xruler+3crv and withdraw LP tokens in 0x3279827b8233Ab455ba6F6bcB9804ee601Bf725B pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_xruler+3crv and withdraw LP tokens in 0x3279827b8233Ab455ba6F6bcB9804ee601Bf725B pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit xruler+3crv and withdraw LP tokens in 0x3279827b8233Ab455ba6F6bcB9804ee601Bf725B pool of Curve
+Skipping because total supply is zero
+      - should deposit xcover_xcover+3crv and withdraw LP tokens in 0x0c46aC7dC6a06Fa5de5a6e74c0726F96c0319900 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_xcover+3crv and withdraw LP tokens in 0x0c46aC7dC6a06Fa5de5a6e74c0726F96c0319900 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit xcover+3crv and withdraw LP tokens in 0x0c46aC7dC6a06Fa5de5a6e74c0726F96c0319900 pool of Curve
+Virtual price:  1001432395828773238
+Total supply:  199580157434957056255
+Result:  199866035219972794885
+199866035219972794885
+Amounts  0  :  199866035219972794885
+Deposit amount 0:  199866035219972794885
+Deposit amount 1:  0
+Min amount:  189601149563209203441
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_xruler_12_dai_2021_7_31_rc_xruler_12_dai_2021_7_31+3crv and withdraw LP tokens in 0x80Bb24b127b96f8C6637acF3BAcAE4F5F860F08c pool of Curve (4251ms)
+Virtual price:  1001490317705905373
+Total supply:  199580157434957056255
+Result:  199877595277329754627
+199877595277329754627
+Amounts  1  :  199877595277329754627
+Deposit amount 0:  0
+Deposit amount 1:  199877595277329754627
+Min amount:  189601149563209203441
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_xruler_12_dai_2021_7_31+3crv and withdraw LP tokens in 0x80Bb24b127b96f8C6637acF3BAcAE4F5F860F08c pool of Curve (4701ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xruler_12_dai_2021_7_31+3crv and withdraw LP tokens in 0x80Bb24b127b96f8C6637acF3BAcAE4F5F860F08c pool of Curve
+      22) should deposit rc_xcover_90_dai_2021_7_31_rc_xcover_90_dai_2021_7_31+3crv and withdraw LP tokens in 0xfE97D8f55884186E50AeDba306Ad553911a26A24 pool of Curve
+      23) should deposit 3crv_rc_xcover_90_dai_2021_7_31+3crv and withdraw LP tokens in 0xfE97D8f55884186E50AeDba306Ad553911a26A24 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_xcover_90_dai_2021_7_31+3crv and withdraw LP tokens in 0xfE97D8f55884186E50AeDba306Ad553911a26A24 pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_ifarm_25_dai_2021_7_31_rc_ifarm_25_dai_2021_7_31+3crv and withdraw LP tokens in 0x5e94A7EE56a168B06C79E5fd972AE0C35cB36FEa pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_ifarm_25_dai_2021_7_31+3crv and withdraw LP tokens in 0x5e94A7EE56a168B06C79E5fd972AE0C35cB36FEa pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_ifarm_25_dai_2021_7_31+3crv and withdraw LP tokens in 0x5e94A7EE56a168B06C79E5fd972AE0C35cB36FEa pool of Curve
+Virtual price:  1001322396698492010
+Total supply:  45785036740766997148
+Result:  45845582722193322802
+45845582722193322802
+Amounts  0  :  45845582722193322802
+Deposit amount 0:  45845582722193322802
+Deposit amount 1:  0
+Min amount:  43495784903728647289
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit rc_amp_0.02_dai_2021_7_31_rc_amp_0.02_dai_2021_7_31+3crv and withdraw LP tokens in 0x2a1E73bf81941630869c125194fBF8f5Ec060Ff0 pool of Curve (4094ms)
+Virtual price:  1001419747902666712
+Total supply:  45785036740766997148
+Result:  45850039950653219443
+45850039950653219443
+Amounts  1  :  45850039950653219443
+Deposit amount 0:  0
+Deposit amount 1:  45850039950653219443
+Min amount:  43495784903728647290
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_rc_amp_0.02_dai_2021_7_31+3crv and withdraw LP tokens in 0x2a1E73bf81941630869c125194fBF8f5Ec060Ff0 pool of Curve (4378ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_amp_0.02_dai_2021_7_31+3crv and withdraw LP tokens in 0x2a1E73bf81941630869c125194fBF8f5Ec060Ff0 pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  49979679868923813788
+TestDefiAdapter balance after:  1000000000000
+Virtual price:  1001913126996392012
+Total supply:  1090226855249333677694309
+Result:  1092312597678302744274097
+1000000000000
+Amounts  0  :  1000000000000
+Deposit amount 0:  1000000000000
+Deposit amount 1:  0
+Min amount:  948185999766
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 1-nusd_nusd+3crv and withdraw LP tokens in 0x67d9eAe741944D4402eB0D1cB3bC3a168EC1764c pool of Curve (3687ms)
+Virtual price:  1001913126996392185
+Total supply:  1090226855249333677694309
+Result:  1092312597678302932883343
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9481859997662460806072
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 1-3crv_nusd+3crv and withdraw LP tokens in 0x67d9eAe741944D4402eB0D1cB3bC3a168EC1764c pool of Curve (4061ms)
+Entering...
+TestDefiAdapter balance before:  999621737997
+Whale balance before:  49979678868923813788
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 1-nusd+3crv and withdraw LP tokens in 0x67d9eAe741944D4402eB0D1cB3bC3a168EC1764c pool of Curve
+Skipping because total supply is zero
+      - should deposit rc_armor_0.1_dai_2021_7_31_rc_armor_0.1_dai_2021_7_31+3crv and withdraw LP tokens in 0x8CAdb80062D6EA09b6d480cB3F955cb7F915b2C7 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_rc_armor_0.1_dai_2021_7_31+3crv and withdraw LP tokens in 0x8CAdb80062D6EA09b6d480cB3F955cb7F915b2C7 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit rc_armor_0.1_dai_2021_7_31+3crv and withdraw LP tokens in 0x8CAdb80062D6EA09b6d480cB3F955cb7F915b2C7 pool of Curve
+Skipping because total supply is zero
+      - should deposit usdf_usdf+3crv and withdraw LP tokens in 0x6E386F8E746af332d18f5c21F3369835C9c5DB16 pool of Curve
+Skipping because total supply is zero
+      - should deposit 3crv_usdf+3crv and withdraw LP tokens in 0x6E386F8E746af332d18f5c21F3369835C9c5DB16 pool of Curve
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit usdf+3crv and withdraw LP tokens in 0x6E386F8E746af332d18f5c21F3369835C9c5DB16 pool of Curve
+Entering...
+TestDefiAdapter balance before:  999621737997
+Whale balance before:  49979678868923813788
+Skipping because total supply is zero
+      - should deposit 2-nusd_nusd+3crv and withdraw LP tokens in 0x57EB6fbE61216d9f8c7c09Ad1EE5a3023747244b pool of Curve
+Skipping because total supply is zero
+      - should deposit 2-3crv_nusd+3crv and withdraw LP tokens in 0x57EB6fbE61216d9f8c7c09Ad1EE5a3023747244b pool of Curve
+Entering...
+TestDefiAdapter balance before:  999621737997
+Whale balance before:  49979678868923813788
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit 2-nusd+3crv and withdraw LP tokens in 0x57EB6fbE61216d9f8c7c09Ad1EE5a3023747244b pool of Curve
+Entering...
+TestDefiAdapter balance before:  0
+Whale balance before:  9042557044673915119449011
+TestDefiAdapter balance after:  1000000000000
+Virtual price:  1001675058073854785
+Total supply:  364470387058156141859670946
+Result:  365080896122678884845389027
+1000000000000
+Amounts  0  :  1000000000000
+Deposit amount 0:  1000000000000
+Deposit amount 1:  0
+Min amount:  948411355900
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit ousd_ousd+3crv and withdraw LP tokens in 0x87650D7bbfC3A9F10587d7778206671719d9910D pool of Curve (4970ms)
+Virtual price:  1001675058073854786
+Total supply:  364470387058156141859670946
+Result:  365080896122678885209859414
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9484113559009625277801
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_ousd+3crv and withdraw LP tokens in 0x87650D7bbfC3A9F10587d7778206671719d9910D pool of Curve (4218ms)
+Entering...
+TestDefiAdapter balance before:  999669336878
+Whale balance before:  9042557044672915119449011
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit ousd+3crv and withdraw LP tokens in 0x87650D7bbfC3A9F10587d7778206671719d9910D pool of Curve
+Virtual price:  1002945410379173639
+Total supply:  19965650188247757028764
+Result:  20024457221539172091673
+10000000000000000000000
+Amounts  0  :  10000000000000000000000
+Deposit amount 0:  10000000000000000000000
+Deposit amount 1:  0
+Min amount:  9472100776061609454662
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit dsu_dsu+3crv and withdraw LP tokens in 0x6eC80df362d7042c50D4469bcfbc174C9dd9109a pool of Curve (4782ms)
+Virtual price:  1002998049186741325
+Total supply:  19965650188247757028764
+Result:  20025508189557394999116
+10000000000000000000000
+Amounts  1  :  10000000000000000000000
+Deposit amount 0:  0
+Deposit amount 1:  10000000000000000000000
+Min amount:  9471603666331020132896
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+Step:  0
+Step:  0
+Step:  1
+Step:  1
+Step:  2
+Step:  2
+      √ should deposit 3crv_dsu+3crv and withdraw LP tokens in 0x6eC80df362d7042c50D4469bcfbc174C9dd9109a pool of Curve (4317ms)
+Skipping because the strategy requires to deposit more than one underlying token
+      - should deposit dsu+3crv and withdraw LP tokens in 0x6eC80df362d7042c50D4469bcfbc174C9dd9109a pool of Curve
+
+
+  113 passing (8m)
+  182 pending
+  23 failing
+
+  1) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit flexusd_flexusd+3crv and withdraw LP tokens in 0x11E0Ab0561Ee271967F70Ea0DA54Fd538ba7a6B0 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  2) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit grapefruitusd_grapefruitusd+3crv and withdraw LP tokens in 0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  3) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit mountainvusd_mountainvusd+3crv and withdraw LP tokens in 0xE0b99F540B3cD69f88b4666c8f39877c79072851 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  4) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit efrontierusd_efrontierusd+3crv and withdraw LP tokens in 0x592ae00d0DEE274d74faeDc6760302F54A5dB67e pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  5) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit nibbiousd_nibbiousd+3crv and withdraw LP tokens in 0x6f682319F4eE0320a53cc72341aC28408C4BeD19 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  6) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit folkvangusd_folkvangusd+3crv and withdraw LP tokens in 0x296B9FA08cf80138dfa6c3fcce497152662BC314 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  7) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit 1-noteusd_noteusd+3crv and withdraw LP tokens in 0xe9Ab166bC03099d251170d0578FDFFb94bCDDe6F pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  8) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit stablex_stablex+3crv and withdraw LP tokens in 0x3252eFd4EA2d6c78091a1f43982ee2C3659cC3D1 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  9) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_inv_300_dai_2021_3_31_rc_inv_300_dai_2021_3_31+3crv and withdraw LP tokens in 0x52890A0c018fbab21794AD18e15f87fdb57fb975 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  10) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit mic2_mic2+3crv and withdraw LP tokens in 0x2B26239f52420d11420bC0982571BFE091417A7d pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  11) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit 2-noteusd_noteusd+3crv and withdraw LP tokens in 0xBd184cD60AF678633b3072FD0B47b5D4b7a072f3 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  12) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit 3crv_rc_pickle_4_dai_2021_4_30+3crv and withdraw LP tokens in 0x910A00594DC16dD699D579A8F7811d465Dfa2752 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  13) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_xcover_150_dai_2021_4_30_rc_xcover_150_dai_2021_4_30+3crv and withdraw LP tokens in 0x421CB018b91b4048FaAC1760Cee3B66026B940f2 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  14) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_defi5_60_dai_2021_4_30_rc_defi5_60_dai_2021_4_30+3crv and withdraw LP tokens in 0xbe735E6dd6c47d86BF8510D3c36Cba1a359B8dDc pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  15) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_xruler_250_dai_2021_5_31_rc_xruler_250_dai_2021_5_31+3crv and withdraw LP tokens in 0x51714B15aB2C2172914A005f4f2889f16Af7003c pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  16) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit 3crv_rc_xruler_150_dai_2021_5_31+3crv and withdraw LP tokens in 0xF9ef8A8dE38ceA3196a4E009aD7A7aF6F5A3d776 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  17) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_bdpi_350_dai_2021_5_31_rc_bdpi_350_dai_2021_5_31+3crv and withdraw LP tokens in 0x5c277D5CC9b258Ca957FF83Ec41d153c4DF7619A pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  18) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_weth_2000_dai_2021_6_30_rc_weth_2000_dai_2021_6_30+3crv and withdraw LP tokens in 0x56680FDEbDd3e31f79938fa1222bFea4706a0758 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  19) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_veth2_1300_dai_2021_6_30_rc_veth2_1300_dai_2021_6_30+3crv and withdraw LP tokens in 0xC3134cCB0810418Dcc2540c7df6E4995a9966d4e pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  20) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_alcx_300_dai_2021_6_30_rc_alcx_300_dai_2021_6_30+3crv and withdraw LP tokens in 0x439bfaE666826a7cB73663E366c12f03d0A13B49 pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  21) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit bpf_bpf+3crv and withdraw LP tokens in 0xeb20b6Dda329685863c7193d8C3b13D3DEf9a02F pool of Curve:
+     Error: VM Exception while processing transaction: reverted with reason string 'depositAll'
+      at TestDeFiAdapter.executeCode (contracts/utils/MultiCall.sol:27)
+      at TestDeFiAdapter.executeCodes (contracts/utils/MultiCall.sol:36)
+      at async EthModule._estimateGasAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:425:7)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  22) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit rc_xcover_90_dai_2021_7_31_rc_xcover_90_dai_2021_7_31+3crv and withdraw LP tokens in 0xfE97D8f55884186E50AeDba306Ad553911a26A24 pool of Curve:
+     Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0xfe97d8f55884186e50aedba306ad553911a26a24)
+      at <UnrecognizedContract>.<unknown> (0xfe97d8f55884186e50aedba306ad553911a26a24)
+      at async HardhatNode.runCall (node_modules\hardhat\src\internal\hardhat-network\provider\node.ts:534:20)
+      at async EthModule._callAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:353:9)
+      at async HardhatNetworkProvider.request (node_modules\hardhat\src\internal\hardhat-network\provider\provider.ts:117:18)
+      at async EthersProviderWrapper.send (node_modules\@nomiclabs\hardhat-ethers\src\internal\ethers-provider-wrapper.ts:13:20)
+
+  23) Unit tests
+       CurveMetapoolSwapAdapter
+         should deposit 3crv_rc_xcover_90_dai_2021_7_31+3crv and withdraw LP tokens in 0xfE97D8f55884186E50AeDba306Ad553911a26A24 pool of Curve:
+     Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0xfe97d8f55884186e50aedba306ad553911a26a24)
+      at <UnrecognizedContract>.<unknown> (0xfe97d8f55884186e50aedba306ad553911a26a24)
+      at runMicrotasks (<anonymous>)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at runNextTicks (node:internal/process/task_queues:65:3)
+      at listOnTimeout (node:internal/timers:526:9)
+      at processTimers (node:internal/timers:500:7)
+      at async HardhatNode.runCall (node_modules\hardhat\src\internal\hardhat-network\provider\node.ts:534:20)
+      at async EthModule._callAction (node_modules\hardhat\src\internal\hardhat-network\provider\modules\eth.ts:353:9)
+
+
+
