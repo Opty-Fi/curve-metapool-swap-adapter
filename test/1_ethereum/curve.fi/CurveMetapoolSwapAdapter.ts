@@ -1,7 +1,6 @@
 import hre from "hardhat";
 import { Artifact } from "hardhat/types";
 import { SignerWithAddress } from "@nomiclabs/hardhat-ethers/dist/src/signer-with-address";
-import { getAddress } from "ethers/lib/utils";
 import { CurveMetapoolSwapAdapter } from "../../../typechain/CurveMetapoolSwapAdapter";
 import { TestDeFiAdapter } from "../../../typechain/TestDeFiAdapter";
 import { LiquidityPool, Signers } from "../types";
