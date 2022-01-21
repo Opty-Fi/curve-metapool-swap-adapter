@@ -6,7 +6,6 @@ import { TestDeFiAdapter } from "../../../typechain/TestDeFiAdapter";
 import { LiquidityPool, Signers } from "../types";
 import { shouldBehaveLikeCurveMetapoolSwapAdapter } from "./CurveMetapoolSwapAdapter.behavior";
 import { default as CurveExports } from "@optyfi/defi-legos/ethereum/curve/contracts";
-import { IUniswapV2Router02 } from "../../../typechain";
 import { getOverrideOptions } from "../../utils";
 
 const { deployContract } = hre.waffle;
@@ -24,10 +23,6 @@ describe("Unit tests", function () {
     this.signers.alice = signers[3];
     this.signers.operator = await hre.ethers.getSigner("0x6bd60f089B6E8BA75c409a54CDea34AA511277f6");
 
-    // get the UniswapV2Router contract instance
-    this.uniswapV2Router02 = <IUniswapV2Router02>(
-      await hre.ethers.getContractAt("IUniswapV2Router02", "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D")
-    );
     // deploy Curve Metapool Swap Adapter
     const curveMetapoolSwapAdapterArtifact: Artifact = await hre.artifacts.readArtifact("CurveMetapoolSwapAdapter");
     this.curveMetapoolSwapAdapter = <CurveMetapoolSwapAdapter>(
