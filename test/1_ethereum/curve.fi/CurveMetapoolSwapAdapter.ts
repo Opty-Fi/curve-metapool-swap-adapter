@@ -10,7 +10,7 @@ import { getOverrideOptions } from "../../utils";
 
 const { deployContract } = hre.waffle;
 
-const CurvePools = CurveExports.CurveMetapoolSwapAdapter;
+const CurvePools = CurveExports.CurveMetapoolSwap.pools;
 
 describe("Unit tests", function () {
   before(async function () {
