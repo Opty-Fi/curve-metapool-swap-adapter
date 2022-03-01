@@ -16,8 +16,6 @@ import "@optyfi/defi-legos/interfaces/defiAdapters/contracts/IAdapterInvestLimit
 import { ICurveMetapoolSwap } from "@optyfi/defi-legos/ethereum/curve/contracts/ICurveMetapoolSwap.sol";
 import { ICurveMetapoolFactory } from "@optyfi/defi-legos/ethereum/curve/contracts/ICurveMetapoolFactory.sol";
 
-import "hardhat/console.sol";
-
 /**
  * @title Adapter for Curve Metapool Swap pools
  * @author Opty.fi
@@ -97,11 +95,8 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
     function getPoolValue(address _swapPool, address) public view override returns (uint256) {
         uint256 _virtualPrice = ICurveMetapoolSwap(_swapPool).get_virtual_price();
         uint256 _totalSupply = ERC20(getLiquidityPoolToken(address(0), _swapPool)).totalSupply();
-        console.log("Virtual price: ", _virtualPrice);
-        console.log("Total supply: ", _totalSupply);
         // the pool value will be in USD for US dollar stablecoin pools
         // the pool value will be in BTC for BTC pools
-        console.log("Result: ", (_virtualPrice * _totalSupply) / (10**18));
         return (_virtualPrice * _totalSupply) / (10**18);
     }
 
@@ -335,7 +330,6 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
         for (uint256 _i = 0; _i < _nCoins; _i++) {
             if (_underlyingTokens[_i] == _underlyingToken) {
                 _amounts[_i] = _getDepositAmount(_swapPool, _underlyingToken, _amount);
-                console.log(_amounts[_i]);
                 uint256 _decimals = ERC20(_underlyingToken).decimals();
                 _minAmount =
                     (_amounts[_i] * (uint256(10)**(uint256(36) - _decimals)) * uint256(95)) /
@@ -403,7 +397,6 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
                             _underlyingTokens[i],
                             abi.encodeWithSignature("approve(address,uint256)", _swapPool, uint256(0))
                         );
-                        console.log("Amounts ", i, " : ", _amounts[i]);
                         _codes[_j++] = abi.encode(
                             _underlyingTokens[i],
                             abi.encodeWithSignature("approve(address,uint256)", _swapPool, _amounts[i])
@@ -413,9 +406,6 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
             }
             if (_nCoins == uint256(2)) {
                 uint256[2] memory _depositAmounts = [_amounts[0], _amounts[1]];
-                console.log("Deposit amount 0: ", _depositAmounts[0]);
-                console.log("Deposit amount 1: ", _depositAmounts[1]);
-                console.log("Min amount: ", _minAmount);
                 _codes[_j] = abi.encode(
                     _swapPool,
                     abi.encodeWithSignature("add_liquidity(uint256[2],uint256)", _depositAmounts, _minAmount)
