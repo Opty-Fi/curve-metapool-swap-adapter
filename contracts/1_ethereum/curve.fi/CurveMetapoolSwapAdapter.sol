@@ -4,10 +4,10 @@
 pragma solidity =0.8.11;
 
 //  libraries
-import { Address } from "@openzeppelin/contracts/utils/Address.sol";
+import { Address } from "@openzeppelin/contracts-0.8.x/utils/Address.sol";
 
 //  helper contracts
-import { ERC20 } from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import { ERC20 } from "@openzeppelin/contracts-0.8.x/token/ERC20/ERC20.sol";
 import { AdapterModifiersBase } from "../../utils/AdapterModifiersBase.sol";
 
 //  interfaces
