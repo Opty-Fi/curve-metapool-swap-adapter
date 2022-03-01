@@ -50,15 +50,14 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
      * @dev mapp coins and tokens to curve deposit pool
      */
     constructor(address _registry) AdapterModifiersBase(_registry) {
-        setMaxDepositProtocolPct(uint256(10000)); // 100% (basis points)
-        setMaxDepositProtocolMode(MaxExposure.Pct);
+        maxDepositProtocolPct = uint256(10000); // 100% (basis points)
+        maxDepositProtocolMode = MaxExposure.Pct;
     }
 
     /**
      * @inheritdoc IAdapterInvestLimit
      */
-    function setMaxDepositPoolPct(address _swapPool, uint256 _maxDepositPoolPct) external override {
-        require(_swapPool.isContract(), "!isContract");
+    function setMaxDepositPoolPct(address _swapPool, uint256 _maxDepositPoolPct) external override onlyRiskOperator {
         maxDepositPoolPct[_swapPool] = _maxDepositPoolPct;
         emit LogMaxDepositPoolPct(maxDepositPoolPct[_swapPool], msg.sender);
     }
@@ -70,8 +69,7 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
         address _swapPool,
         address,
         uint256 _maxDepositAmount
-    ) external override {
-        require(_swapPool.isContract(), "!isContract");
+    ) external override onlyRiskOperator {
         // Note : use 18 as decimals for USD, BTC and ETH
         maxDepositAmount[_swapPool] = _maxDepositAmount;
         emit LogMaxDepositAmount(maxDepositAmount[_swapPool], msg.sender);
@@ -80,7 +78,7 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
     /**
      * @inheritdoc IAdapterInvestLimit
      */
-    function setMaxDepositProtocolMode(MaxExposure _mode) public override {
+    function setMaxDepositProtocolMode(MaxExposure _mode) public override onlyRiskOperator {
         maxDepositProtocolMode = _mode;
         emit LogMaxDepositProtocolMode(maxDepositProtocolMode, msg.sender);
     }
@@ -88,7 +86,7 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
     /**
      * @inheritdoc IAdapterInvestLimit
      */
-    function setMaxDepositProtocolPct(uint256 _maxDepositProtocolPct) public override {
+    function setMaxDepositProtocolPct(uint256 _maxDepositProtocolPct) public override onlyRiskOperator {
         maxDepositProtocolPct = _maxDepositProtocolPct;
         emit LogMaxDepositProtocolPct(maxDepositProtocolPct, msg.sender);
     }
