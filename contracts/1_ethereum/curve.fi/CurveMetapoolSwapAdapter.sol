@@ -144,14 +144,22 @@ contract CurveMetapoolSwapAdapter is IAdapter, IAdapterInvestLimit, AdapterModif
 
     /**
      * @inheritdoc IAdapter
-     * @dev Reverting '!empty' message as there is no related functionality for this in CurveSwap pool
      */
     function calculateAmountInLPToken(
-        address,
-        address,
-        uint256
-    ) public pure override returns (uint256) {
-        revert("!empty");
+        address _underlyingToken,
+        address _swapPool,
+        uint256 _underlyingTokenAmount
+    ) public view override returns (uint256 _amount) {
+        address _curveRegistry = _getCurveRegistry();
+        uint256 _nCoins = _getNCoins(_swapPool, _curveRegistry);
+        uint256[2] memory _amounts;
+        address[2] memory _underlyingTokens = _getUnderlyingTokens(_swapPool, _curveRegistry);
+        for (uint256 _i = 0; _i < _nCoins; _i++) {
+            if (_underlyingTokens[_i] == _underlyingToken) {
+                _amounts[_i] = _underlyingTokenAmount;
+            }
+        }
+        _amount = ICurveMetapoolSwap(_swapPool).calc_token_amount(_amounts, true);
     }
 
     /**

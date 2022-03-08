@@ -80,6 +80,26 @@ export function shouldBehaveLikeCurveMetapoolSwapAdapter(token: string, pool: Po
     }
     // underlying token instance
     const underlyingTokenInstance = await hre.ethers.getContractAt("IERC20", pool.tokens[0]);
+    // pool value
+    const virtualPrice = await curveMetapoolSwapInstance.get_virtual_price();
+    const totalSupply = await curveMetapoolSwapInstance.totalSupply();
+    const poolValue = virtualPrice.mul(totalSupply).div(BigNumber.from(10).pow(18));
+    // amounts to deposit
+    let amounts = [];
+    for (let i = 0; i < underlyingTokens.length; i++) {
+      if (getAddress(underlyingTokens[i]) == pool.tokens[0]) {
+        if ((await tokenInstance.balanceOf(this.testDeFiAdapter.address)).gt(poolValue)) {
+          amounts[i] = poolValue;
+        } else {
+          amounts[i] = await tokenInstance.balanceOf(this.testDeFiAdapter.address);
+        }
+      } else {
+        amounts[i] = BigNumber.from(0);
+      }
+    }
+    const expectedLPTokenBalanceBeforeDepositing = await curveMetapoolSwapInstance[
+      "calc_token_amount(uint256[2],bool)"
+    ]([amounts[0], amounts[1]], true);
     // 1. deposit all underlying tokens
     await this.testDeFiAdapter.testGetDepositAllCodes(
       pool.tokens[0],
@@ -93,6 +113,7 @@ export function shouldBehaveLikeCurveMetapoolSwapAdapter(token: string, pool: Po
       this.testDeFiAdapter.address, // placeholder of type address
       pool.pool,
     );
+    expect(actualLPTokenBalanceAfterDeposit).to.be.gt(expectedLPTokenBalanceBeforeDepositing.mul(95).div(100));
     const expectedLPTokenBalanceAfterDeposit = await curveMetapoolSwapInstance.balanceOf(this.testDeFiAdapter.address);
     expect(actualLPTokenBalanceAfterDeposit).to.be.eq(expectedLPTokenBalanceAfterDeposit);
     // 1.2 assert whether underlying token balance is as expected or not after deposit
